@@ -1,0 +1,4102 @@
+{
+  "categories": [
+    {
+      "activities": [
+        {
+          "id": "find_sock",
+          "assetName": "clothing_sock",
+          "mainWord": {
+            "de-DE": "die Socke",
+            "en-US": "sock",
+            "es-ES": "el calcetín",
+            "fr-FR": "la chaussette",
+            "it-IT": "il calzino",
+            "tr-TR": "çorap"
+          },
+          "title": {
+            "de": "Die Socke finden",
+            "en": "Find the Sock",
+            "tr": "Çorabı Bul"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "put_on_shoes",
+          "assetName": "clothing_shoes",
+          "mainWord": {
+            "de-DE": "der Schuh",
+            "en-US": "shoe",
+            "es-ES": "el zapato",
+            "fr-FR": "la chaussure",
+            "it-IT": "la scarpa",
+            "tr-TR": "ayakkabı"
+          },
+          "title": {
+            "de": "Schuhe anziehen",
+            "en": "Put on Shoes",
+            "tr": "Ayakkabı Giydirme"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "put_on_pants",
+          "assetName": "clothing_pants",
+          "mainWord": {
+            "de-DE": "die Hose",
+            "en-US": "pants",
+            "es-ES": "el pantalón",
+            "fr-FR": "le pantalon",
+            "it-IT": "i pantaloni",
+            "tr-TR": "pantolon"
+          },
+          "title": {
+            "de": "Hose anziehen",
+            "en": "Put on Pants",
+            "tr": "Pantolon Giyme"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "put_on_shirt",
+          "assetName": "clothing_shirt",
+          "mainWord": {
+            "de-DE": "das T-Shirt",
+            "en-US": "shirt",
+            "es-ES": "la camiseta",
+            "fr-FR": "le t-shirt",
+            "it-IT": "la maglietta",
+            "tr-TR": "tişört"
+          },
+          "title": {
+            "de": "T-Shirt anziehen",
+            "en": "Put on the Shirt",
+            "tr": "Tişört Giyme"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "put_on_jacket",
+          "assetName": "clothing_jacket",
+          "mainWord": {
+            "de-DE": "die Jacke",
+            "en-US": "jacket",
+            "es-ES": "la chaqueta",
+            "fr-FR": "la veste",
+            "it-IT": "la giacca",
+            "tr-TR": "mont"
+          },
+          "title": {
+            "de": "Jacke anziehen",
+            "en": "Put on the Jacket",
+            "tr": "Mont / Ceket Giydirme"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "put_on_hat",
+          "assetName": "clothing_hat",
+          "mainWord": {
+            "de-DE": "die Mütze",
+            "en-US": "hat",
+            "es-ES": "el gorro",
+            "fr-FR": "le bonnet",
+            "it-IT": "il cappello",
+            "tr-TR": "şapka"
+          },
+          "title": {
+            "de": "Mütze aufsetzen",
+            "en": "Put on the Hat",
+            "tr": "Şapka Takma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "put_on_gloves",
+          "assetName": "clothing_gloves",
+          "mainWord": {
+            "de-DE": "der Handschuh",
+            "en-US": "glove",
+            "es-ES": "el guante",
+            "fr-FR": "le gant",
+            "it-IT": "il guanto",
+            "tr-TR": "eldiven"
+          },
+          "title": {
+            "de": "Handschuhe anziehen",
+            "en": "Put on Gloves",
+            "tr": "Eldiven Takma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "put_on_pajamas",
+          "assetName": "clothing_pajamas",
+          "mainWord": {
+            "de-DE": "der Schlafanzug",
+            "en-US": "pajamas",
+            "es-ES": "el pijama",
+            "fr-FR": "le pyjama",
+            "it-IT": "il pigiama",
+            "tr-TR": "pijama"
+          },
+          "title": {
+            "de": "Schlafanzug anziehen",
+            "en": "Put on Pajamas",
+            "tr": "Pijama Giyme"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "clean_dirty_clothes",
+          "assetName": "clothing_clean_dirty",
+          "mainWord": {
+            "de-DE": "sauber",
+            "en-US": "clean",
+            "es-ES": "limpio",
+            "fr-FR": "propre",
+            "it-IT": "pulito",
+            "tr-TR": "temiz"
+          },
+          "title": {
+            "de": "Sauber oder schmutzig?",
+            "en": "Clean or Dirty Clothes",
+            "tr": "Temiz mi Kirli mi?"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activities": [
+        {
+          "id": "routine_morning_wakeup",
+          "assetName": "routine_morning_wakeup",
+          "mainWord": {
+            "de-DE": "aufwachen",
+            "en-US": "wake up",
+            "es-ES": "despertarse",
+            "fr-FR": "se réveiller",
+            "it-IT": "svegliarsi",
+            "tr-TR": "uyanmak"
+          },
+          "title": {
+            "de": "Morgens aufwachen",
+            "en": "Morning Wake-Up",
+            "tr": "Sabah Uyanma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "routine_diaper_change",
+          "assetName": "routine_diaper_change",
+          "mainWord": {
+            "de-DE": "die Windel",
+            "en-US": "diaper",
+            "es-ES": "el pañal",
+            "fr-FR": "la couche",
+            "it-IT": "il pannolino",
+            "tr-TR": "bez"
+          },
+          "title": {
+            "de": "Windel wechseln",
+            "en": "Diaper Change",
+            "tr": "Bez Değiştirme"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "routine_brush_teeth",
+          "assetName": "routine_brush_teeth",
+          "mainWord": {
+            "de-DE": "die Zahnbürste",
+            "en-US": "toothbrush",
+            "es-ES": "el cepillo de dientes",
+            "fr-FR": "la brosse à dents",
+            "it-IT": "lo spazzolino",
+            "tr-TR": "diş fırçası"
+          },
+          "title": {
+            "de": "Zähne putzen",
+            "en": "Brush Teeth",
+            "tr": "Diş Fırçalama"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "routine_wash_hands_face",
+          "assetName": "routine_wash_hands_face",
+          "mainWord": {
+            "de-DE": "waschen",
+            "en-US": "wash",
+            "es-ES": "lavar",
+            "fr-FR": "laver",
+            "it-IT": "lavare",
+            "tr-TR": "yıkamak"
+          },
+          "title": {
+            "de": "Hände und Gesicht waschen",
+            "en": "Wash Hands and Face",
+            "tr": "El ve Yüz Yıkama"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "routine_bedtime",
+          "assetName": "routine_bedtime",
+          "mainWord": {
+            "de-DE": "schlafen",
+            "en-US": "sleep",
+            "es-ES": "dormir",
+            "fr-FR": "dormir",
+            "it-IT": "dormire",
+            "tr-TR": "uyku"
+          },
+          "title": {
+            "de": "Schlafenszeit-Routine",
+            "en": "Bedtime Routine",
+            "tr": "Uykuya Hazırlık"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "routine_bath_time",
+          "assetName": "routine_bath_time",
+          "mainWord": {
+            "de-DE": "baden",
+            "en-US": "bath",
+            "es-ES": "el baño",
+            "fr-FR": "le bain",
+            "it-IT": "il bagno",
+            "tr-TR": "banyo"
+          },
+          "title": {
+            "de": "Badezeit",
+            "en": "Bath Time",
+            "tr": "Banyo Zamanı"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "routine_clean_up_toys",
+          "assetName": "routine_clean_up_toys",
+          "mainWord": {
+            "de-DE": "aufräumen",
+            "en-US": "clean up",
+            "es-ES": "recoger",
+            "fr-FR": "ranger",
+            "it-IT": "mettere in ordine",
+            "tr-TR": "topla"
+          },
+          "title": {
+            "de": "Spielzeug aufräumen",
+            "en": "Clean Up Toys",
+            "tr": "Oyuncak Toplama"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activities": [
+        {
+          "id": "food_meal_time",
+          "assetName": "food_meal_time",
+          "mainWord": {
+            "de-DE": "das Essen",
+            "en-US": "food",
+            "es-ES": "la comida",
+            "fr-FR": "la nourriture",
+            "it-IT": "il cibo",
+            "tr-TR": "yemek"
+          },
+          "title": {
+            "de": "Essenszeit",
+            "en": "Meal Time",
+            "tr": "Yemek Zamanı"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "food_use_spoon",
+          "assetName": "food_use_spoon",
+          "mainWord": {
+            "de-DE": "der Löffel",
+            "en-US": "spoon",
+            "es-ES": "la cuchara",
+            "fr-FR": "la cuillère",
+            "it-IT": "il cucchiaio",
+            "tr-TR": "kaşık"
+          },
+          "title": {
+            "de": "Löffel benutzen",
+            "en": "Use the Spoon",
+            "tr": "Kaşık Kullanma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "food_drink_cup",
+          "assetName": "food_drink_cup",
+          "mainWord": {
+            "de-DE": "der Becher",
+            "en-US": "cup",
+            "es-ES": "el vaso",
+            "fr-FR": "le gobelet",
+            "it-IT": "il bicchiere",
+            "tr-TR": "bardak"
+          },
+          "title": {
+            "de": "Aus dem Becher trinken",
+            "en": "Drink from a Cup",
+            "tr": "Bardaktan İçme"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "food_sit_table",
+          "assetName": "food_sit_table",
+          "mainWord": {
+            "de-DE": "der Tisch",
+            "en-US": "table",
+            "es-ES": "la mesa",
+            "fr-FR": "la table",
+            "it-IT": "il tavolo",
+            "tr-TR": "masa"
+          },
+          "title": {
+            "de": "Am Tisch sitzen",
+            "en": "Sit at the Table",
+            "tr": "Masaya Oturma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "food_use_napkin",
+          "assetName": "food_use_napkin",
+          "mainWord": {
+            "de-DE": "die Serviette",
+            "en-US": "napkin",
+            "es-ES": "la servilleta",
+            "fr-FR": "la serviette",
+            "it-IT": "il tovagliolo",
+            "tr-TR": "peçete"
+          },
+          "title": {
+            "de": "Serviette benutzen",
+            "en": "Use a Napkin",
+            "tr": "Peçete Kullanma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "food_please_thank_you",
+          "assetName": "food_please_thank_you",
+          "mainWord": {
+            "de-DE": "bitte",
+            "en-US": "please",
+            "es-ES": "por favor",
+            "fr-FR": "s'il te plaît",
+            "it-IT": "per favore",
+            "tr-TR": "lütfen"
+          },
+          "title": {
+            "de": "Bitte und Danke",
+            "en": "Please and Thank You",
+            "tr": "Lütfen ve Teşekkür"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "food_hot_cold",
+          "assetName": "food_hot_cold",
+          "mainWord": {
+            "de-DE": "warm",
+            "en-US": "hot",
+            "es-ES": "caliente",
+            "fr-FR": "chaud",
+            "it-IT": "caldo",
+            "tr-TR": "sıcak"
+          },
+          "title": {
+            "de": "Warm oder kalt?",
+            "en": "Hot or Cold Food",
+            "tr": "Sıcak mı Soğuk mu?"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "food_clean_after_eating",
+          "assetName": "food_clean_after_eating",
+          "mainWord": {
+            "de-DE": "sauber machen",
+            "en-US": "clean",
+            "es-ES": "limpio",
+            "fr-FR": "propre",
+            "it-IT": "pulito",
+            "tr-TR": "temizle"
+          },
+          "title": {
+            "de": "Nach dem Essen sauber machen",
+            "en": "Clean Up After Eating",
+            "tr": "Yemekten Sonra Temizlenme"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activities": [
+        {
+          "id": "movement_sit_stand",
+          "assetName": "movement_sit_stand",
+          "mainWord": {
+            "de-DE": "sitzen",
+            "en-US": "sit",
+            "es-ES": "siéntate",
+            "fr-FR": "assis",
+            "it-IT": "siediti",
+            "tr-TR": "otur"
+          },
+          "title": {
+            "de": "Hinsetzen und Aufstehen",
+            "en": "Sit and Stand",
+            "tr": "Otur ve Kalk"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "movement_come_go",
+          "assetName": "movement_come_go",
+          "mainWord": {
+            "de-DE": "komm",
+            "en-US": "come",
+            "es-ES": "ven",
+            "fr-FR": "viens",
+            "it-IT": "vieni",
+            "tr-TR": "gel"
+          },
+          "title": {
+            "de": "Komm und Geh",
+            "en": "Come and Go",
+            "tr": "Gel ve Git"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "movement_stop_wait",
+          "assetName": "movement_stop_wait",
+          "mainWord": {
+            "de-DE": "stopp",
+            "en-US": "stop",
+            "es-ES": "para",
+            "fr-FR": "stop",
+            "it-IT": "stop",
+            "tr-TR": "dur"
+          },
+          "title": {
+            "de": "Stopp und Warte",
+            "en": "Stop and Wait",
+            "tr": "Dur ve Bekle"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "movement_slow_fast",
+          "assetName": "movement_slow_fast",
+          "mainWord": {
+            "de-DE": "langsam",
+            "en-US": "slow",
+            "es-ES": "lento",
+            "fr-FR": "lentement",
+            "it-IT": "lento",
+            "tr-TR": "yavaş"
+          },
+          "title": {
+            "de": "Langsam und Schnell",
+            "en": "Slow and Fast",
+            "tr": "Yavaş ve Hızlı"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "movement_right_left",
+          "assetName": "movement_right_left",
+          "mainWord": {
+            "de-DE": "rechts",
+            "en-US": "right",
+            "es-ES": "derecha",
+            "fr-FR": "droite",
+            "it-IT": "destra",
+            "tr-TR": "sağ"
+          },
+          "title": {
+            "de": "Rechts und Links",
+            "en": "Right and Left",
+            "tr": "Sağ ve Sol"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "movement_up_down",
+          "assetName": "movement_up_down",
+          "mainWord": {
+            "de-DE": "hoch",
+            "en-US": "up",
+            "es-ES": "arriba",
+            "fr-FR": "haut",
+            "it-IT": "su",
+            "tr-TR": "yukarı"
+          },
+          "title": {
+            "de": "Hoch und Runter",
+            "en": "Up and Down",
+            "tr": "Yukarı ve Aşağı"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "movement_inside_outside",
+          "assetName": "movement_inside_outside",
+          "mainWord": {
+            "de-DE": "rein",
+            "en-US": "inside",
+            "es-ES": "dentro",
+            "fr-FR": "dedans",
+            "it-IT": "dentro",
+            "tr-TR": "içeri"
+          },
+          "title": {
+            "de": "Rein und Raus",
+            "en": "Inside and Outside",
+            "tr": "İçeri ve Dışarı"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "movement_give_take_drop",
+          "assetName": "movement_give_take_drop",
+          "mainWord": {
+            "de-DE": "gib",
+            "en-US": "give",
+            "es-ES": "da",
+            "fr-FR": "donne",
+            "it-IT": "dai",
+            "tr-TR": "ver"
+          },
+          "title": {
+            "de": "Gib, Nimm und Lass los",
+            "en": "Give, Take and Drop",
+            "tr": "Ver, Al ve Bırak"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activities": [
+        {
+          "id": "hygiene_diaper_check",
+          "assetName": "hygiene_diaper_check",
+          "mainWord": {
+            "de-DE": "die Windel",
+            "en-US": "diaper",
+            "es-ES": "el pañal",
+            "fr-FR": "la couche",
+            "it-IT": "il pannolino",
+            "tr-TR": "bez"
+          },
+          "title": {
+            "de": "Windel prüfen",
+            "en": "Diaper Check",
+            "tr": "Bez Kontrolü"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hygiene_toilet_time",
+          "assetName": "hygiene_toilet_time",
+          "mainWord": {
+            "de-DE": "die Toilette",
+            "en-US": "toilet",
+            "es-ES": "el baño",
+            "fr-FR": "les toilettes",
+            "it-IT": "il bagno",
+            "tr-TR": "tuvalet"
+          },
+          "title": {
+            "de": "Toilettenzeit",
+            "en": "Toilet Time",
+            "tr": "Tuvalet Zamanı"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hygiene_wash_hands",
+          "assetName": "hygiene_wash_hands",
+          "mainWord": {
+            "de-DE": "die Hand",
+            "en-US": "hand",
+            "es-ES": "la mano",
+            "fr-FR": "la main",
+            "it-IT": "la mano",
+            "tr-TR": "el"
+          },
+          "title": {
+            "de": "Hände waschen",
+            "en": "Wash Your Hands",
+            "tr": "Ellerini Yıkama"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hygiene_use_soap",
+          "assetName": "hygiene_use_soap",
+          "mainWord": {
+            "de-DE": "die Seife",
+            "en-US": "soap",
+            "es-ES": "el jabón",
+            "fr-FR": "le savon",
+            "it-IT": "il sapone",
+            "tr-TR": "sabun"
+          },
+          "title": {
+            "de": "Seife benutzen",
+            "en": "Use Soap",
+            "tr": "Sabun Kullanma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hygiene_dry_towel",
+          "assetName": "hygiene_dry_towel",
+          "mainWord": {
+            "de-DE": "das Handtuch",
+            "en-US": "towel",
+            "es-ES": "la toalla",
+            "fr-FR": "la serviette",
+            "it-IT": "l'asciugamano",
+            "tr-TR": "havlu"
+          },
+          "title": {
+            "de": "Mit dem Handtuch abtrocknen",
+            "en": "Dry with a Towel",
+            "tr": "Havluyla Kurulama"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hygiene_wet_dry",
+          "assetName": "hygiene_wet_dry",
+          "mainWord": {
+            "de-DE": "nass",
+            "en-US": "wet",
+            "es-ES": "mojado",
+            "fr-FR": "mouillé",
+            "it-IT": "bagnato",
+            "tr-TR": "ıslak"
+          },
+          "title": {
+            "de": "Nass oder trocken?",
+            "en": "Wet or Dry",
+            "tr": "Islak mı Kuru mu?"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hygiene_clean_dirty",
+          "assetName": "hygiene_clean_dirty",
+          "mainWord": {
+            "de-DE": "sauber",
+            "en-US": "clean",
+            "es-ES": "limpio",
+            "fr-FR": "propre",
+            "it-IT": "pulito",
+            "tr-TR": "temiz"
+          },
+          "title": {
+            "de": "Sauber oder schmutzig?",
+            "en": "Clean or Dirty",
+            "tr": "Temiz mi Kirli mi?"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activities": [
+        {
+          "id": "emotion_hungry",
+          "assetName": "emotion_hungry",
+          "mainWord": {
+            "de-DE": "ich habe Hunger",
+            "en-US": "I’m hungry",
+            "es-ES": "tengo hambre",
+            "fr-FR": "j'ai faim",
+            "it-IT": "ho fame",
+            "tr-TR": "acıktım"
+          },
+          "title": {
+            "de": "Ich habe Hunger",
+            "en": "I’m Hungry",
+            "tr": "Acıktım"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "emotion_thirsty",
+          "assetName": "emotion_thirsty",
+          "mainWord": {
+            "de-DE": "ich habe Durst",
+            "en-US": "I’m thirsty",
+            "es-ES": "tengo sed",
+            "fr-FR": "j'ai soif",
+            "it-IT": "ho sete",
+            "tr-TR": "susadım"
+          },
+          "title": {
+            "de": "Ich habe Durst",
+            "en": "I’m Thirsty",
+            "tr": "Susadım"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "emotion_sleepy",
+          "assetName": "emotion_sleepy",
+          "mainWord": {
+            "de-DE": "ich bin müde",
+            "en-US": "I’m sleepy",
+            "es-ES": "tengo sueño",
+            "fr-FR": "j'ai sommeil",
+            "it-IT": "ho sonno",
+            "tr-TR": "uykum var"
+          },
+          "title": {
+            "de": "Ich bin müde",
+            "en": "I’m Sleepy",
+            "tr": "Uykum Var"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "emotion_sad",
+          "assetName": "emotion_sad",
+          "mainWord": {
+            "de-DE": "ich bin traurig",
+            "en-US": "I’m sad",
+            "es-ES": "estoy triste",
+            "fr-FR": "je suis triste",
+            "it-IT": "sono triste",
+            "tr-TR": "üzgünüm"
+          },
+          "title": {
+            "de": "Ich bin traurig",
+            "en": "I’m Sad",
+            "tr": "Üzgünüm"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "emotion_happy",
+          "assetName": "emotion_happy",
+          "mainWord": {
+            "de-DE": "ich bin glücklich",
+            "en-US": "I’m happy",
+            "es-ES": "estoy feliz",
+            "fr-FR": "je suis content",
+            "it-IT": "sono felice",
+            "tr-TR": "mutluyum"
+          },
+          "title": {
+            "de": "Ich bin glücklich",
+            "en": "I’m Happy",
+            "tr": "Mutluyum"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "emotion_scared",
+          "assetName": "emotion_scared",
+          "mainWord": {
+            "de-DE": "ich habe Angst",
+            "en-US": "I’m scared",
+            "es-ES": "tengo miedo",
+            "fr-FR": "j'ai peur",
+            "it-IT": "ho paura",
+            "tr-TR": "korktum"
+          },
+          "title": {
+            "de": "Ich habe Angst",
+            "en": "I’m Scared",
+            "tr": "Korktum"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "emotion_help_me",
+          "assetName": "emotion_help_me",
+          "mainWord": {
+            "de-DE": "hilf mir",
+            "en-US": "help me",
+            "es-ES": "ayúdame",
+            "fr-FR": "aide-moi",
+            "it-IT": "aiutami",
+            "tr-TR": "yardım et"
+          },
+          "title": {
+            "de": "Hilf mir",
+            "en": "Help Me",
+            "tr": "Yardım Et"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "emotion_all_done_more",
+          "assetName": "emotion_all_done_more",
+          "mainWord": {
+            "de-DE": "fertig",
+            "en-US": "all done",
+            "es-ES": "terminado",
+            "fr-FR": "fini",
+            "it-IT": "finito",
+            "tr-TR": "bitti"
+          },
+          "title": {
+            "de": "Fertig oder mehr?",
+            "en": "All Done or More",
+            "tr": "Bitti mi Daha mı?"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activities": [
+        {
+          "id": "play_peekaboo",
+          "assetName": "play_peekaboo",
+          "mainWord": {
+            "de-DE": "guck-guck",
+            "en-US": "peekaboo",
+            "es-ES": "cucú",
+            "fr-FR": "coucou",
+            "it-IT": "cucù",
+            "tr-TR": "ce-ee"
+          },
+          "title": {
+            "de": "Guck-guck",
+            "en": "Peekaboo",
+            "tr": "Saklambaç"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "play_throw_ball",
+          "assetName": "play_throw_ball",
+          "mainWord": {
+            "de-DE": "der Ball",
+            "en-US": "ball",
+            "es-ES": "la pelota",
+            "fr-FR": "la balle",
+            "it-IT": "la palla",
+            "tr-TR": "top"
+          },
+          "title": {
+            "de": "Ball werfen",
+            "en": "Throw the Ball",
+            "tr": "Top Atma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "play_stack_blocks",
+          "assetName": "play_stack_blocks",
+          "mainWord": {
+            "de-DE": "der Block",
+            "en-US": "block",
+            "es-ES": "el bloque",
+            "fr-FR": "le bloc",
+            "it-IT": "il blocco",
+            "tr-TR": "blok"
+          },
+          "title": {
+            "de": "Blöcke stapeln",
+            "en": "Stack Blocks",
+            "tr": "Blok Dizme"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "play_find_toy",
+          "assetName": "play_find_toy",
+          "mainWord": {
+            "de-DE": "das Spielzeug",
+            "en-US": "toy",
+            "es-ES": "el juguete",
+            "fr-FR": "le jouet",
+            "it-IT": "il giocattolo",
+            "tr-TR": "oyuncak"
+          },
+          "title": {
+            "de": "Spielzeug finden",
+            "en": "Find the Toy",
+            "tr": "Oyuncak Bulma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "play_look_book",
+          "assetName": "play_look_book",
+          "mainWord": {
+            "de-DE": "das Buch",
+            "en-US": "book",
+            "es-ES": "el libro",
+            "fr-FR": "le livre",
+            "it-IT": "il libro",
+            "tr-TR": "kitap"
+          },
+          "title": {
+            "de": "Buch anschauen",
+            "en": "Look at a Book",
+            "tr": "Kitap Bakma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "play_animal_sounds",
+          "assetName": "play_animal_sounds",
+          "mainWord": {
+            "de-DE": "das Tier",
+            "en-US": "animal",
+            "es-ES": "el animal",
+            "fr-FR": "l'animal",
+            "it-IT": "l'animale",
+            "tr-TR": "hayvan"
+          },
+          "title": {
+            "de": "Tiergeräusche",
+            "en": "Animal Sounds",
+            "tr": "Hayvan Sesleri"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "play_find_color",
+          "assetName": "play_find_color",
+          "mainWord": {
+            "de-DE": "die Farbe",
+            "en-US": "color",
+            "es-ES": "el color",
+            "fr-FR": "la couleur",
+            "it-IT": "il colore",
+            "tr-TR": "renk"
+          },
+          "title": {
+            "de": "Farbe finden",
+            "en": "Find the Color",
+            "tr": "Renk Bulma"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "play_sing_repeat",
+          "assetName": "play_sing_repeat",
+          "mainWord": {
+            "de-DE": "wiederholen",
+            "en-US": "repeat",
+            "es-ES": "repetir",
+            "fr-FR": "répéter",
+            "it-IT": "ripetere",
+            "tr-TR": "tekrar"
+          },
+          "title": {
+            "de": "Singen und Wiederholen",
+            "en": "Sing and Repeat",
+            "tr": "Şarkıyla Tekrar"
+          },
+          "sentences": [
+            {
+              "id": "sentence_1",
+              "audio_files": {
+                "de-DE": "sentence_1_de-DE.mp3",
+                "en-US": "sentence_1_en-US.mp3",
+                "es-ES": "sentence_1_es-ES.mp3",
+                "fr-FR": "sentence_1_fr-FR.mp3",
+                "it-IT": "sentence_1_it-IT.mp3",
+                "tr-TR": "sentence_1_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_2",
+              "audio_files": {
+                "de-DE": "sentence_2_de-DE.mp3",
+                "en-US": "sentence_2_en-US.mp3",
+                "es-ES": "sentence_2_es-ES.mp3",
+                "fr-FR": "sentence_2_fr-FR.mp3",
+                "it-IT": "sentence_2_it-IT.mp3",
+                "tr-TR": "sentence_2_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_3",
+              "audio_files": {
+                "de-DE": "sentence_3_de-DE.mp3",
+                "en-US": "sentence_3_en-US.mp3",
+                "es-ES": "sentence_3_es-ES.mp3",
+                "fr-FR": "sentence_3_fr-FR.mp3",
+                "it-IT": "sentence_3_it-IT.mp3",
+                "tr-TR": "sentence_3_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_4",
+              "audio_files": {
+                "de-DE": "sentence_4_de-DE.mp3",
+                "en-US": "sentence_4_en-US.mp3",
+                "es-ES": "sentence_4_es-ES.mp3",
+                "fr-FR": "sentence_4_fr-FR.mp3",
+                "it-IT": "sentence_4_it-IT.mp3",
+                "tr-TR": "sentence_4_tr-TR.mp3"
+              }
+            },
+            {
+              "id": "sentence_5",
+              "audio_files": {
+                "de-DE": "sentence_5_de-DE.mp3",
+                "en-US": "sentence_5_en-US.mp3",
+                "es-ES": "sentence_5_es-ES.mp3",
+                "fr-FR": "sentence_5_fr-FR.mp3",
+                "it-IT": "sentence_5_it-IT.mp3",
+                "tr-TR": "sentence_5_tr-TR.mp3"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4218 @@
+{
+  "categories" : [
+    {
+      "activities" : [
+        {
+          "assetName" : "word_ball",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Ball.",
+                "en-US" : "This is the ball.",
+                "es-ES" : "Esta es la pelota.",
+                "fr-FR" : "C’est le ballon.",
+                "it-IT" : "Questa è la palla.",
+                "tr-TR" : "Bu top."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist der Ball?",
+                "en-US" : "Where is the ball?",
+                "es-ES" : "¿Dónde está la pelota?",
+                "fr-FR" : "Où est le ballon ?",
+                "it-IT" : "Dov’è la palla?",
+                "tr-TR" : "Top nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Ball ist rund.",
+                "en-US" : "The ball is round.",
+                "es-ES" : "La pelota es redonda.",
+                "fr-FR" : "Le ballon est rond.",
+                "it-IT" : "La palla è rotonda.",
+                "tr-TR" : "Top yuvarlak."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Rollen wir den Ball.",
+                "en-US" : "Let’s roll the ball.",
+                "es-ES" : "Rodemos la pelota.",
+                "fr-FR" : "Faisons rouler le ballon.",
+                "it-IT" : "Facciamo rotolare la palla.",
+                "tr-TR" : "Topu yuvarlayalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "park_find_ball",
+          "mainWord" : {
+            "de-DE" : "der Ball",
+            "en-US" : "the ball",
+            "es-ES" : "la pelota",
+            "fr-FR" : "le ballon",
+            "it-IT" : "la palla",
+            "tr-TR" : "top"
+          },
+          "title" : {
+            "de" : "Den Ball finden",
+            "en" : "Find the Ball",
+            "tr" : "Topu Bulalım"
+          }
+        },
+        {
+          "assetName" : "word_tree",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Baum.",
+                "en-US" : "This is the tree.",
+                "es-ES" : "Este es el árbol.",
+                "fr-FR" : "C’est l’arbre.",
+                "it-IT" : "Questo è l’albero.",
+                "tr-TR" : "Bu ağaç."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist der Baum?",
+                "en-US" : "Where is the tree?",
+                "es-ES" : "¿Dónde está el árbol?",
+                "fr-FR" : "Où est l’arbre ?",
+                "it-IT" : "Dov’è l’albero?",
+                "tr-TR" : "Ağaç nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Baum ist groß.",
+                "en-US" : "The tree is big.",
+                "es-ES" : "El árbol es grande.",
+                "fr-FR" : "L’arbre est grand.",
+                "it-IT" : "L’albero è grande.",
+                "tr-TR" : "Ağaç büyük."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Berühren wir den Baum.",
+                "en-US" : "Let’s touch the tree.",
+                "es-ES" : "Toquemos el árbol.",
+                "fr-FR" : "Touchons l’arbre.",
+                "it-IT" : "Tocchiamo l’albero.",
+                "tr-TR" : "Ağaca dokunalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "park_show_tree",
+          "mainWord" : {
+            "de-DE" : "der Baum",
+            "en-US" : "the tree",
+            "es-ES" : "el árbol",
+            "fr-FR" : "l’arbre",
+            "it-IT" : "l’albero",
+            "tr-TR" : "ağaç"
+          },
+          "title" : {
+            "de" : "Den Baum zeigen",
+            "en" : "Show the Tree",
+            "tr" : "Ağacı Gösterelim"
+          }
+        },
+        {
+          "assetName" : "word_bird",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Vogel.",
+                "en-US" : "This is the bird.",
+                "es-ES" : "Este es el pájaro.",
+                "fr-FR" : "C’est l’oiseau.",
+                "it-IT" : "Questo è l’uccello.",
+                "tr-TR" : "Bu kuş."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist der Vogel?",
+                "en-US" : "Where is the bird?",
+                "es-ES" : "¿Dónde está el pájaro?",
+                "fr-FR" : "Où est l’oiseau ?",
+                "it-IT" : "Dov’è l’uccello?",
+                "tr-TR" : "Kuş nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Vogel fliegt.",
+                "en-US" : "The bird is flying.",
+                "es-ES" : "El pájaro vuela.",
+                "fr-FR" : "L’oiseau vole.",
+                "it-IT" : "L’uccello vola.",
+                "tr-TR" : "Kuş uçuyor."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Schauen wir den Vogel an.",
+                "en-US" : "Let’s look at the bird.",
+                "es-ES" : "Miremos el pájaro.",
+                "fr-FR" : "Regardons l’oiseau.",
+                "it-IT" : "Guardiamo l’uccello.",
+                "tr-TR" : "Kuşa bakalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "park_watch_bird",
+          "mainWord" : {
+            "de-DE" : "der Vogel",
+            "en-US" : "the bird",
+            "es-ES" : "el pájaro",
+            "fr-FR" : "l’oiseau",
+            "it-IT" : "l’uccello",
+            "tr-TR" : "kuş"
+          },
+          "title" : {
+            "de" : "Den Vogel beobachten",
+            "en" : "Watch the Bird",
+            "tr" : "Kuşu İzleyelim"
+          }
+        },
+        {
+          "assetName" : "word_flower",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Blume.",
+                "en-US" : "This is the flower.",
+                "es-ES" : "Esta es la flor.",
+                "fr-FR" : "C’est la fleur.",
+                "it-IT" : "Questo è il fiore.",
+                "tr-TR" : "Bu çiçek."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Blume?",
+                "en-US" : "Where is the flower?",
+                "es-ES" : "¿Dónde está la flor?",
+                "fr-FR" : "Où est la fleur ?",
+                "it-IT" : "Dov’è il fiore?",
+                "tr-TR" : "Çiçek nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Blume ist schön.",
+                "en-US" : "The flower is pretty.",
+                "es-ES" : "La flor es bonita.",
+                "fr-FR" : "La fleur est jolie.",
+                "it-IT" : "Il fiore è bello.",
+                "tr-TR" : "Çiçek güzel."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Riechen wir an der Blume.",
+                "en-US" : "Let’s smell the flower.",
+                "es-ES" : "Olamos la flor.",
+                "fr-FR" : "Sentons la fleur.",
+                "it-IT" : "Annusiamo il fiore.",
+                "tr-TR" : "Çiçeği koklayalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "park_find_flower",
+          "mainWord" : {
+            "de-DE" : "die Blume",
+            "en-US" : "the flower",
+            "es-ES" : "la flor",
+            "fr-FR" : "la fleur",
+            "it-IT" : "il fiore",
+            "tr-TR" : "çiçek"
+          },
+          "title" : {
+            "de" : "Die Blume finden",
+            "en" : "Find the Flower",
+            "tr" : "Çiçeği Bulalım"
+          }
+        },
+        {
+          "assetName" : "word_stone",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Stein.",
+                "en-US" : "This is the stone.",
+                "es-ES" : "Esta es la piedra.",
+                "fr-FR" : "C’est la pierre.",
+                "it-IT" : "Questa è la pietra.",
+                "tr-TR" : "Bu taş."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist der Stein?",
+                "en-US" : "Where is the stone?",
+                "es-ES" : "¿Dónde está la piedra?",
+                "fr-FR" : "Où est la pierre ?",
+                "it-IT" : "Dov’è la pietra?",
+                "tr-TR" : "Taş nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Stein ist hart.",
+                "en-US" : "The stone is hard.",
+                "es-ES" : "La piedra es dura.",
+                "fr-FR" : "La pierre est dure.",
+                "it-IT" : "La pietra è dura.",
+                "tr-TR" : "Taş sert."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Legen wir den Stein hierhin.",
+                "en-US" : "Let’s put the stone here.",
+                "es-ES" : "Pongamos la piedra aquí.",
+                "fr-FR" : "Mettons la pierre ici.",
+                "it-IT" : "Mettiamo la pietra qui.",
+                "tr-TR" : "Taşı buraya koyalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "park_find_stone",
+          "mainWord" : {
+            "de-DE" : "der Stein",
+            "en-US" : "the stone",
+            "es-ES" : "la piedra",
+            "fr-FR" : "la pierre",
+            "it-IT" : "la pietra",
+            "tr-TR" : "taş"
+          },
+          "title" : {
+            "de" : "Den Stein finden",
+            "en" : "Find the Stone",
+            "tr" : "Taşı Bulalım"
+          }
+        },
+        {
+          "assetName" : "word_swing",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Schaukel.",
+                "en-US" : "This is the swing.",
+                "es-ES" : "Este es el columpio.",
+                "fr-FR" : "C’est la balançoire.",
+                "it-IT" : "Questa è l’altalena.",
+                "tr-TR" : "Bu salıncak."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Schaukel?",
+                "en-US" : "Where is the swing?",
+                "es-ES" : "¿Dónde está el columpio?",
+                "fr-FR" : "Où est la balançoire ?",
+                "it-IT" : "Dov’è l’altalena?",
+                "tr-TR" : "Salıncak nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Schaukel bewegt sich.",
+                "en-US" : "The swing is moving.",
+                "es-ES" : "El columpio se mueve.",
+                "fr-FR" : "La balançoire bouge.",
+                "it-IT" : "L’altalena si muove.",
+                "tr-TR" : "Salıncak hareket ediyor."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Schaukeln wir.",
+                "en-US" : "Let’s swing.",
+                "es-ES" : "Columpiémonos.",
+                "fr-FR" : "Faisons de la balançoire.",
+                "it-IT" : "Andiamo sull’altalena.",
+                "tr-TR" : "Sallanalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "park_go_swing",
+          "mainWord" : {
+            "de-DE" : "die Schaukel",
+            "en-US" : "the swing",
+            "es-ES" : "el columpio",
+            "fr-FR" : "la balançoire",
+            "it-IT" : "l’altalena",
+            "tr-TR" : "salıncak"
+          },
+          "title" : {
+            "de" : "Zur Schaukel gehen",
+            "en" : "Go to the Swing",
+            "tr" : "Salıncağa Gidelim"
+          }
+        },
+        {
+          "assetName" : "word_slide",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Rutsche.",
+                "en-US" : "This is the slide.",
+                "es-ES" : "Este es el tobogán.",
+                "fr-FR" : "C’est le toboggan.",
+                "it-IT" : "Questo è lo scivolo.",
+                "tr-TR" : "Bu kaydırak."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Rutsche?",
+                "en-US" : "Where is the slide?",
+                "es-ES" : "¿Dónde está el tobogán?",
+                "fr-FR" : "Où est le toboggan ?",
+                "it-IT" : "Dov’è lo scivolo?",
+                "tr-TR" : "Kaydırak nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Rutsche ist hoch.",
+                "en-US" : "The slide is tall.",
+                "es-ES" : "El tobogán es alto.",
+                "fr-FR" : "Le toboggan est haut.",
+                "it-IT" : "Lo scivolo è alto.",
+                "tr-TR" : "Kaydırak yüksek."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Rutschen wir.",
+                "en-US" : "Let’s slide.",
+                "es-ES" : "Deslicémonos.",
+                "fr-FR" : "Glissons.",
+                "it-IT" : "Scivoliamo.",
+                "tr-TR" : "Kayalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "park_show_slide",
+          "mainWord" : {
+            "de-DE" : "die Rutsche",
+            "en-US" : "the slide",
+            "es-ES" : "el tobogán",
+            "fr-FR" : "le toboggan",
+            "it-IT" : "lo scivolo",
+            "tr-TR" : "kaydırak"
+          },
+          "title" : {
+            "de" : "Die Rutsche zeigen",
+            "en" : "Show the Slide",
+            "tr" : "Kaydırağı Gösterelim"
+          }
+        },
+        {
+          "assetName" : "word_run_stop",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Lauf!",
+                "en-US" : "Run!",
+                "es-ES" : "¡Corre!",
+                "fr-FR" : "Cours !",
+                "it-IT" : "Corri!",
+                "tr-TR" : "Koş!"
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Stopp!",
+                "en-US" : "Stop!",
+                "es-ES" : "¡Para!",
+                "fr-FR" : "Stop !",
+                "it-IT" : "Stop!",
+                "tr-TR" : "Dur!"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir laufen.",
+                "en-US" : "We are running.",
+                "es-ES" : "Estamos corriendo.",
+                "fr-FR" : "Nous courons.",
+                "it-IT" : "Stiamo correndo.",
+                "tr-TR" : "Koşuyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir halten an.",
+                "en-US" : "We stop.",
+                "es-ES" : "Paramos.",
+                "fr-FR" : "Nous nous arrêtons.",
+                "it-IT" : "Ci fermiamo.",
+                "tr-TR" : "Duruyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "park_run_stop",
+          "mainWord" : {
+            "de-DE" : "laufen / stopp",
+            "en-US" : "run / stop",
+            "es-ES" : "corre / para",
+            "fr-FR" : "cours / stop",
+            "it-IT" : "corri / stop",
+            "tr-TR" : "koş / dur"
+          },
+          "title" : {
+            "de" : "Laufen und stoppen",
+            "en" : "Run and Stop",
+            "tr" : "Koşalım ve Duralım"
+          }
+        }
+      ],
+      "id" : "park_outdoor",
+      "title" : {
+        "de" : "Park & Draußen",
+        "en" : "Park & Outside",
+        "tr" : "Park ve Dışarı"
+      }
+    },
+    {
+      "activities" : [
+        {
+          "assetName" : "word_bag",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Tasche.",
+                "en-US" : "This is the bag.",
+                "es-ES" : "Esta es la mochila.",
+                "fr-FR" : "C’est le sac.",
+                "it-IT" : "Questo è lo zaino.",
+                "tr-TR" : "Bu çanta."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Tasche?",
+                "en-US" : "Where is the bag?",
+                "es-ES" : "¿Dónde está la mochila?",
+                "fr-FR" : "Où est le sac ?",
+                "it-IT" : "Dov’è lo zaino?",
+                "tr-TR" : "Çanta nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Tasche ist bereit.",
+                "en-US" : "The bag is ready.",
+                "es-ES" : "La mochila está lista.",
+                "fr-FR" : "Le sac est prêt.",
+                "it-IT" : "Lo zaino è pronto.",
+                "tr-TR" : "Çanta hazır."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Packen wir die Tasche.",
+                "en-US" : "Let’s pack the bag.",
+                "es-ES" : "Preparemos la mochila.",
+                "fr-FR" : "Préparons le sac.",
+                "it-IT" : "Prepariamo lo zaino.",
+                "tr-TR" : "Çantayı hazırlayalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "daycare_prepare_bag",
+          "mainWord" : {
+            "de-DE" : "die Tasche",
+            "en-US" : "the bag",
+            "es-ES" : "la mochila",
+            "fr-FR" : "le sac",
+            "it-IT" : "lo zaino",
+            "tr-TR" : "çanta"
+          },
+          "title" : {
+            "de" : "Packen wir meine Tasche",
+            "en" : "Let’s Prepare My Bag",
+            "tr" : "Çantamı Hazırlayalım"
+          }
+        },
+        {
+          "assetName" : "word_shoes",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das sind die Schuhe.",
+                "en-US" : "These are the shoes.",
+                "es-ES" : "Estos son los zapatos.",
+                "fr-FR" : "Ce sont les chaussures.",
+                "it-IT" : "Queste sono le scarpe.",
+                "tr-TR" : "Bunlar ayakkabılar."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo sind die Schuhe?",
+                "en-US" : "Where are the shoes?",
+                "es-ES" : "¿Dónde están los zapatos?",
+                "fr-FR" : "Où sont les chaussures ?",
+                "it-IT" : "Dove sono le scarpe?",
+                "tr-TR" : "Ayakkabılar nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Schuhe sind da.",
+                "en-US" : "The shoes are here.",
+                "es-ES" : "Los zapatos están aquí.",
+                "fr-FR" : "Les chaussures sont là.",
+                "it-IT" : "Le scarpe sono qui.",
+                "tr-TR" : "Ayakkabılar burada."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Ziehen wir die Schuhe an.",
+                "en-US" : "Let’s put on the shoes.",
+                "es-ES" : "Pongámonos los zapatos.",
+                "fr-FR" : "Mettons les chaussures.",
+                "it-IT" : "Mettiamo le scarpe.",
+                "tr-TR" : "Ayakkabıları giyelim."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "daycare_put_on_shoes",
+          "mainWord" : {
+            "de-DE" : "die Schuhe",
+            "en-US" : "the shoes",
+            "es-ES" : "los zapatos",
+            "fr-FR" : "les chaussures",
+            "it-IT" : "le scarpe",
+            "tr-TR" : "ayakkabılar"
+          },
+          "title" : {
+            "de" : "Ziehen wir meine Schuhe an",
+            "en" : "Let’s Put On My Shoes",
+            "tr" : "Ayakkabılarımı Giyelim"
+          }
+        },
+        {
+          "assetName" : "word_jacket",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Jacke.",
+                "en-US" : "This is the jacket.",
+                "es-ES" : "Esta es la chaqueta.",
+                "fr-FR" : "C’est la veste.",
+                "it-IT" : "Questa è la giacca.",
+                "tr-TR" : "Bu mont."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Jacke?",
+                "en-US" : "Where is the jacket?",
+                "es-ES" : "¿Dónde está la chaqueta?",
+                "fr-FR" : "Où est la veste ?",
+                "it-IT" : "Dov’è la giacca?",
+                "tr-TR" : "Mont nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Jacke ist warm.",
+                "en-US" : "The jacket is warm.",
+                "es-ES" : "La chaqueta abriga.",
+                "fr-FR" : "La veste est chaude.",
+                "it-IT" : "La giacca è calda.",
+                "tr-TR" : "Mont sıcak."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Ziehen wir die Jacke an.",
+                "en-US" : "Let’s put on the jacket.",
+                "es-ES" : "Pongámonos la chaqueta.",
+                "fr-FR" : "Mettons la veste.",
+                "it-IT" : "Mettiamo la giacca.",
+                "tr-TR" : "Montu giyelim."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "daycare_put_on_jacket",
+          "mainWord" : {
+            "de-DE" : "die Jacke",
+            "en-US" : "the jacket",
+            "es-ES" : "la chaqueta",
+            "fr-FR" : "la veste",
+            "it-IT" : "la giacca",
+            "tr-TR" : "mont"
+          },
+          "title" : {
+            "de" : "Ziehen wir meine Jacke an",
+            "en" : "Let’s Put On My Jacket",
+            "tr" : "Montumu Giyelim"
+          }
+        },
+        {
+          "assetName" : "word_daycare",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Kita.",
+                "en-US" : "This is daycare.",
+                "es-ES" : "Esta es la guardería.",
+                "fr-FR" : "C’est la crèche.",
+                "it-IT" : "Questo è l’asilo.",
+                "tr-TR" : "Bu kreş."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wir gehen zur Kita.",
+                "en-US" : "We are going to daycare.",
+                "es-ES" : "Vamos a la guardería.",
+                "fr-FR" : "On va à la crèche.",
+                "it-IT" : "Andiamo all’asilo.",
+                "tr-TR" : "Kreşe gidiyoruz."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Kita ist da.",
+                "en-US" : "Daycare is there.",
+                "es-ES" : "La guardería está allí.",
+                "fr-FR" : "La crèche est là-bas.",
+                "it-IT" : "L’asilo è lì.",
+                "tr-TR" : "Kreş orada."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Gleich sind wir da.",
+                "en-US" : "We are almost there.",
+                "es-ES" : "Ya casi llegamos.",
+                "fr-FR" : "On arrive bientôt.",
+                "it-IT" : "Siamo quasi arrivati.",
+                "tr-TR" : "Az kaldı."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "daycare_going_to_daycare",
+          "mainWord" : {
+            "de-DE" : "die Kita",
+            "en-US" : "daycare",
+            "es-ES" : "la guardería",
+            "fr-FR" : "la crèche",
+            "it-IT" : "l’asilo",
+            "tr-TR" : "kreş"
+          },
+          "title" : {
+            "de" : "Wir gehen zur Kita",
+            "en" : "We’re Going to Daycare",
+            "tr" : "Kreşe Gidiyoruz"
+          }
+        },
+        {
+          "assetName" : "word_teacher",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Erzieherin.",
+                "en-US" : "This is the teacher.",
+                "es-ES" : "Esta es la educadora.",
+                "fr-FR" : "C’est l’éducatrice.",
+                "it-IT" : "Questa è l’educatrice.",
+                "tr-TR" : "Bu öğretmen."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Hallo!",
+                "en-US" : "Hello!",
+                "es-ES" : "¡Hola!",
+                "fr-FR" : "Bonjour !",
+                "it-IT" : "Ciao!",
+                "tr-TR" : "Merhaba!"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Guten Morgen!",
+                "en-US" : "Good morning!",
+                "es-ES" : "¡Buenos días!",
+                "fr-FR" : "Bonjour, le matin !",
+                "it-IT" : "Buongiorno!",
+                "tr-TR" : "Günaydın!"
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir sagen Hallo.",
+                "en-US" : "We say hello.",
+                "es-ES" : "Decimos hola.",
+                "fr-FR" : "On dit bonjour.",
+                "it-IT" : "Diciamo ciao.",
+                "tr-TR" : "Merhaba diyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "daycare_greet_teacher",
+          "mainWord" : {
+            "de-DE" : "die Erzieherin",
+            "en-US" : "the teacher",
+            "es-ES" : "la educadora",
+            "fr-FR" : "l’éducatrice",
+            "it-IT" : "l’educatrice",
+            "tr-TR" : "öğretmen"
+          },
+          "title" : {
+            "de" : "Sagen wir der Erzieherin Hallo",
+            "en" : "Let’s Say Hello to the Teacher",
+            "tr" : "Öğretmene Merhaba Diyelim"
+          }
+        },
+        {
+          "assetName" : "word_friend",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist dein Freund.",
+                "en-US" : "This is your friend.",
+                "es-ES" : "Este es tu amigo.",
+                "fr-FR" : "C’est ton ami.",
+                "it-IT" : "Questo è il tuo amico.",
+                "tr-TR" : "Bu senin arkadaşın."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Hallo!",
+                "en-US" : "Hello!",
+                "es-ES" : "¡Hola!",
+                "fr-FR" : "Bonjour !",
+                "it-IT" : "Ciao!",
+                "tr-TR" : "Merhaba!"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir sagen Hallo.",
+                "en-US" : "We say hello.",
+                "es-ES" : "Decimos hola.",
+                "fr-FR" : "On dit bonjour.",
+                "it-IT" : "Diciamo ciao.",
+                "tr-TR" : "Merhaba diyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Dein Freund ist da.",
+                "en-US" : "Your friend is here.",
+                "es-ES" : "Tu amigo está aquí.",
+                "fr-FR" : "Ton ami est là.",
+                "it-IT" : "Il tuo amico è qui.",
+                "tr-TR" : "Arkadaşın burada."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "daycare_greet_friend",
+          "mainWord" : {
+            "de-DE" : "der Freund",
+            "en-US" : "the friend",
+            "es-ES" : "el amigo",
+            "fr-FR" : "l’ami",
+            "it-IT" : "l’amico",
+            "tr-TR" : "arkadaş"
+          },
+          "title" : {
+            "de" : "Sagen wir meinem Freund Hallo",
+            "en" : "Let’s Say Hello to My Friend",
+            "tr" : "Arkadaşıma Merhaba Diyelim"
+          }
+        },
+        {
+          "assetName" : "word_toy",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist dein Spielzeug.",
+                "en-US" : "This is your toy.",
+                "es-ES" : "Este es tu juguete.",
+                "fr-FR" : "C’est ton jouet.",
+                "it-IT" : "Questo è il tuo giocattolo.",
+                "tr-TR" : "Bu senin oyuncağın."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Das Spielzeug bleibt hier.",
+                "en-US" : "The toy stays here.",
+                "es-ES" : "El juguete se queda aquí.",
+                "fr-FR" : "Le jouet reste ici.",
+                "it-IT" : "Il giocattolo resta qui.",
+                "tr-TR" : "Oyuncak burada kalıyor."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir holen es später.",
+                "en-US" : "We will get it later.",
+                "es-ES" : "Lo recogeremos después.",
+                "fr-FR" : "On le prendra plus tard.",
+                "it-IT" : "Lo prendiamo dopo.",
+                "tr-TR" : "Sonra alacağız."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Alles ist gut.",
+                "en-US" : "Everything is okay.",
+                "es-ES" : "Todo está bien.",
+                "fr-FR" : "Tout va bien.",
+                "it-IT" : "Va tutto bene.",
+                "tr-TR" : "Her şey yolunda."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "daycare_leave_toy",
+          "mainWord" : {
+            "de-DE" : "das Spielzeug",
+            "en-US" : "the toy",
+            "es-ES" : "el juguete",
+            "fr-FR" : "le jouet",
+            "it-IT" : "il giocattolo",
+            "tr-TR" : "oyuncak"
+          },
+          "title" : {
+            "de" : "Lassen wir mein Spielzeug hier",
+            "en" : "Let’s Leave My Toy",
+            "tr" : "Oyuncağımı Bırakalım"
+          }
+        },
+        {
+          "assetName" : "word_goodbye",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Tschüss!",
+                "en-US" : "Goodbye!",
+                "es-ES" : "¡Adiós!",
+                "fr-FR" : "Au revoir !",
+                "it-IT" : "Ciao!",
+                "tr-TR" : "Hoşça kal!"
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Ich komme wieder.",
+                "en-US" : "I will come back.",
+                "es-ES" : "Voy a volver.",
+                "fr-FR" : "Je vais revenir.",
+                "it-IT" : "Tornerò.",
+                "tr-TR" : "Geri geleceğim."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Du bist sicher.",
+                "en-US" : "You are safe.",
+                "es-ES" : "Estás segura.",
+                "fr-FR" : "Tu es en sécurité.",
+                "it-IT" : "Sei al sicuro.",
+                "tr-TR" : "Güvendesin."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Bis später!",
+                "en-US" : "See you later!",
+                "es-ES" : "¡Hasta luego!",
+                "fr-FR" : "À plus tard !",
+                "it-IT" : "A più tardi!",
+                "tr-TR" : "Sonra görüşürüz!"
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "daycare_say_goodbye",
+          "mainWord" : {
+            "de-DE" : "tschüss",
+            "en-US" : "goodbye",
+            "es-ES" : "adiós",
+            "fr-FR" : "au revoir",
+            "it-IT" : "ciao",
+            "tr-TR" : "hoşça kal"
+          },
+          "title" : {
+            "de" : "Sagen wir Tschüss",
+            "en" : "Let’s Say Goodbye",
+            "tr" : "Hoşça Kal Diyelim"
+          }
+        }
+      ],
+      "id" : "daycare_preparation",
+      "title" : {
+        "de" : "Kita-Vorbereitung",
+        "en" : "Daycare Prep",
+        "tr" : "Kreş Hazırlığı"
+      }
+    },
+    {
+      "activities" : [
+        {
+          "assetName" : "word_pajamas",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Schlafanzug.",
+                "en-US" : "These are the pajamas.",
+                "es-ES" : "Este es el pijama.",
+                "fr-FR" : "C’est le pyjama.",
+                "it-IT" : "Questo è il pigiama.",
+                "tr-TR" : "Bu pijama."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist der Schlafanzug?",
+                "en-US" : "Where are the pajamas?",
+                "es-ES" : "¿Dónde está el pijama?",
+                "fr-FR" : "Où est le pyjama ?",
+                "it-IT" : "Dov’è il pigiama?",
+                "tr-TR" : "Pijama nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Schlafanzug ist weich.",
+                "en-US" : "The pajamas are soft.",
+                "es-ES" : "El pijama es suave.",
+                "fr-FR" : "Le pyjama est doux.",
+                "it-IT" : "Il pigiama è morbido.",
+                "tr-TR" : "Pijama yumuşak."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Ziehen wir den Schlafanzug an.",
+                "en-US" : "Let’s put on the pajamas.",
+                "es-ES" : "Pongámonos el pijama.",
+                "fr-FR" : "Mettons le pyjama.",
+                "it-IT" : "Mettiamo il pigiama.",
+                "tr-TR" : "Pijamayı giyelim."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Gute Nacht!",
+                "en-US" : "Good night!",
+                "es-ES" : "Buenas noches!",
+                "fr-FR" : "Bonne nuit !",
+                "it-IT" : "Buona notte!",
+                "tr-TR" : "İyi geceler!"
+              }
+            }
+          ],
+          "id" : "sleep_put_on_pajamas",
+          "mainWord" : {
+            "de-DE" : "der Schlafanzug",
+            "en-US" : "the pajamas",
+            "es-ES" : "el pijama",
+            "fr-FR" : "le pyjama",
+            "it-IT" : "il pigiama",
+            "tr-TR" : "pijama"
+          },
+          "title" : {
+            "de" : "Ziehen wir meinen Schlafanzug an",
+            "en" : "Let’s Put On My Pajamas",
+            "tr" : "Pijamamı Giyelim"
+          }
+        },
+        {
+          "assetName" : "word_toothbrush",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Zahnbürste.",
+                "en-US" : "This is the toothbrush.",
+                "es-ES" : "Este es el cepillo de dientes.",
+                "fr-FR" : "C’est la brosse à dents.",
+                "it-IT" : "Questo è lo spazzolino.",
+                "tr-TR" : "Bu diş fırçası."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Zahnbürste?",
+                "en-US" : "Where is the toothbrush?",
+                "es-ES" : "¿Dónde está el cepillo de dientes?",
+                "fr-FR" : "Où est la brosse à dents ?",
+                "it-IT" : "Dov’è lo spazzolino?",
+                "tr-TR" : "Diş fırçası nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir putzen die Zähne.",
+                "en-US" : "We brush the teeth.",
+                "es-ES" : "Cepillamos los dientes.",
+                "fr-FR" : "On brosse les dents.",
+                "it-IT" : "Laviamo i denti.",
+                "tr-TR" : "Dişleri fırçalıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Der Mund ist sauber.",
+                "en-US" : "The mouth is clean.",
+                "es-ES" : "La boca está limpia.",
+                "fr-FR" : "La bouche est propre.",
+                "it-IT" : "La bocca è pulita.",
+                "tr-TR" : "Ağız temiz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "sleep_brush_teeth",
+          "mainWord" : {
+            "de-DE" : "die Zahnbürste",
+            "en-US" : "the toothbrush",
+            "es-ES" : "el cepillo de dientes",
+            "fr-FR" : "la brosse à dents",
+            "it-IT" : "lo spazzolino",
+            "tr-TR" : "diş fırçası"
+          },
+          "title" : {
+            "de" : "Putzen wir meine Zähne",
+            "en" : "Let’s Brush My Teeth",
+            "tr" : "Dişlerimi Fırçalayalım"
+          }
+        },
+        {
+          "assetName" : "word_book",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Buch.",
+                "en-US" : "This is the book.",
+                "es-ES" : "Este es el libro.",
+                "fr-FR" : "C’est le livre.",
+                "it-IT" : "Questo è il libro.",
+                "tr-TR" : "Bu kitap."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist das Buch?",
+                "en-US" : "Where is the book?",
+                "es-ES" : "¿Dónde está el libro?",
+                "fr-FR" : "Où est le livre ?",
+                "it-IT" : "Dov’è il libro?",
+                "tr-TR" : "Kitap nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Das Buch ist schön.",
+                "en-US" : "The book is nice.",
+                "es-ES" : "El libro es bonito.",
+                "fr-FR" : "Le livre est joli.",
+                "it-IT" : "Il libro è bello.",
+                "tr-TR" : "Kitap güzel."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Lesen wir das Buch.",
+                "en-US" : "Let’s read the book.",
+                "es-ES" : "Leamos el libro.",
+                "fr-FR" : "Lisons le livre.",
+                "it-IT" : "Leggiamo il libro.",
+                "tr-TR" : "Kitabı okuyalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Gute Nacht!",
+                "en-US" : "Good night!",
+                "es-ES" : "Buenas noches!",
+                "fr-FR" : "Bonne nuit !",
+                "it-IT" : "Buona notte!",
+                "tr-TR" : "İyi geceler!"
+              }
+            }
+          ],
+          "id" : "sleep_read_book",
+          "mainWord" : {
+            "de-DE" : "das Buch",
+            "en-US" : "the book",
+            "es-ES" : "el libro",
+            "fr-FR" : "le livre",
+            "it-IT" : "il libro",
+            "tr-TR" : "kitap"
+          },
+          "title" : {
+            "de" : "Lesen wir mein Buch",
+            "en" : "Let’s Read My Book",
+            "tr" : "Kitabımı Okuyalım"
+          }
+        },
+        {
+          "assetName" : "word_light",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Licht.",
+                "en-US" : "This is the light.",
+                "es-ES" : "Esta es la luz.",
+                "fr-FR" : "C’est la lumière.",
+                "it-IT" : "Questa è la luce.",
+                "tr-TR" : "Bu ışık."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist das Licht?",
+                "en-US" : "Where is the light?",
+                "es-ES" : "¿Dónde está la luz?",
+                "fr-FR" : "Où est la lumière ?",
+                "it-IT" : "Dov’è la luce?",
+                "tr-TR" : "Işık nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Das Licht ist weich.",
+                "en-US" : "The light is soft.",
+                "es-ES" : "La luz es suave.",
+                "fr-FR" : "La lumière est douce.",
+                "it-IT" : "La luce è soffusa.",
+                "tr-TR" : "Işık yumuşak."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Machen wir das Licht dunkler.",
+                "en-US" : "Let’s dim the light.",
+                "es-ES" : "Bajemos la luz.",
+                "fr-FR" : "Baissons la lumière.",
+                "it-IT" : "Abbassiamo la luce.",
+                "tr-TR" : "Işığı kısalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Jetzt ist es ruhig.",
+                "en-US" : "Now it is calm.",
+                "es-ES" : "Ahora está tranquilo.",
+                "fr-FR" : "Maintenant, c’est calme.",
+                "it-IT" : "Ora è tranquillo.",
+                "tr-TR" : "Şimdi sakin."
+              }
+            }
+          ],
+          "id" : "sleep_dim_light",
+          "mainWord" : {
+            "de-DE" : "das Licht",
+            "en-US" : "the light",
+            "es-ES" : "la luz",
+            "fr-FR" : "la lumière",
+            "it-IT" : "la luce",
+            "tr-TR" : "ışık"
+          },
+          "title" : {
+            "de" : "Machen wir das Licht dunkler",
+            "en" : "Let’s Dim the Light",
+            "tr" : "Işığı Kısalım"
+          }
+        },
+        {
+          "assetName" : "word_toy_sleep",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist dein Spielzeug.",
+                "en-US" : "This is your toy.",
+                "es-ES" : "Este es tu juguete.",
+                "fr-FR" : "C’est ton jouet.",
+                "it-IT" : "Questo è il tuo giocattolo.",
+                "tr-TR" : "Bu senin oyuncağın."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist dein Spielzeug?",
+                "en-US" : "Where is your toy?",
+                "es-ES" : "¿Dónde está tu juguete?",
+                "fr-FR" : "Où est ton jouet ?",
+                "it-IT" : "Dov’è il tuo giocattolo?",
+                "tr-TR" : "Oyuncağın nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Gute Nacht, Spielzeug.",
+                "en-US" : "Good night, toy.",
+                "es-ES" : "Buenas noches, juguete.",
+                "fr-FR" : "Bonne nuit, le jouet.",
+                "it-IT" : "Buonanotte, giocattolo.",
+                "tr-TR" : "İyi geceler, oyuncak."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Das Spielzeug schläft auch.",
+                "en-US" : "The toy is sleeping too.",
+                "es-ES" : "El juguete también duerme.",
+                "fr-FR" : "Le jouet dort aussi.",
+                "it-IT" : "Anche il giocattolo dorme.",
+                "tr-TR" : "Oyuncak da uyuyor."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Gute Nacht!",
+                "en-US" : "Good night!",
+                "es-ES" : "Buenas noches!",
+                "fr-FR" : "Bonne nuit !",
+                "it-IT" : "Buona notte!",
+                "tr-TR" : "İyi geceler!"
+              }
+            }
+          ],
+          "id" : "sleep_say_goodnight_to_toy",
+          "mainWord" : {
+            "de-DE" : "das Spielzeug",
+            "en-US" : "the toy",
+            "es-ES" : "el juguete",
+            "fr-FR" : "le jouet",
+            "it-IT" : "il giocattolo",
+            "tr-TR" : "oyuncak"
+          },
+          "title" : {
+            "de" : "Sagen wir meinem Spielzeug gute Nacht",
+            "en" : "Let’s Say Good Night to My Toy",
+            "tr" : "Oyuncağımla İyi Geceler Diyelim"
+          }
+        },
+        {
+          "assetName" : "word_bed",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Bett.",
+                "en-US" : "This is the bed.",
+                "es-ES" : "Esta es la cama.",
+                "fr-FR" : "C’est le lit.",
+                "it-IT" : "Questo è il letto.",
+                "tr-TR" : "Bu yatak."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist das Bett?",
+                "en-US" : "Where is the bed?",
+                "es-ES" : "¿Dónde está la cama?",
+                "fr-FR" : "Où est le lit ?",
+                "it-IT" : "Dov’è il letto?",
+                "tr-TR" : "Yatak nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Das Bett ist weich.",
+                "en-US" : "The bed is soft.",
+                "es-ES" : "La cama es suave.",
+                "fr-FR" : "Le lit est doux.",
+                "it-IT" : "Il letto è morbido.",
+                "tr-TR" : "Yatak yumuşak."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Gehen wir ins Bett.",
+                "en-US" : "Let’s go to bed.",
+                "es-ES" : "Vamos a la cama.",
+                "fr-FR" : "Allons au lit.",
+                "it-IT" : "Andiamo a letto.",
+                "tr-TR" : "Yatağa geçelim."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Gute Nacht!",
+                "en-US" : "Good night!",
+                "es-ES" : "Buenas noches!",
+                "fr-FR" : "Bonne nuit !",
+                "it-IT" : "Buona notte!",
+                "tr-TR" : "İyi geceler!"
+              }
+            }
+          ],
+          "id" : "sleep_go_to_bed",
+          "mainWord" : {
+            "de-DE" : "das Bett",
+            "en-US" : "the bed",
+            "es-ES" : "la cama",
+            "fr-FR" : "le lit",
+            "it-IT" : "il letto",
+            "tr-TR" : "yatak"
+          },
+          "title" : {
+            "de" : "Gehen wir zu meinem Bett",
+            "en" : "Let’s Go to My Bed",
+            "tr" : "Yatağıma Geçelim"
+          }
+        },
+        {
+          "assetName" : "word_hug",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist eine Umarmung.",
+                "en-US" : "This is a hug.",
+                "es-ES" : "Esto es un abrazo.",
+                "fr-FR" : "C’est un câlin.",
+                "it-IT" : "Questo è un abbraccio.",
+                "tr-TR" : "Bu sarılma."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wir kuscheln.",
+                "en-US" : "We are hugging.",
+                "es-ES" : "Nos abrazamos.",
+                "fr-FR" : "On fait un câlin.",
+                "it-IT" : "Ci abbracciamo.",
+                "tr-TR" : "Sarılıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir werden ruhig.",
+                "en-US" : "We are calming down.",
+                "es-ES" : "Nos calmamos.",
+                "fr-FR" : "On se calme.",
+                "it-IT" : "Ci calmiamo.",
+                "tr-TR" : "Sakinleşiyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Alles ist gut.",
+                "en-US" : "Everything is okay.",
+                "es-ES" : "Todo está bien.",
+                "fr-FR" : "Tout va bien.",
+                "it-IT" : "Va tutto bene.",
+                "tr-TR" : "Her şey yolunda."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Gute Nacht!",
+                "en-US" : "Good night!",
+                "es-ES" : "Buenas noches!",
+                "fr-FR" : "Bonne nuit !",
+                "it-IT" : "Buona notte!",
+                "tr-TR" : "İyi geceler!"
+              }
+            }
+          ],
+          "id" : "sleep_hug_and_calm_down",
+          "mainWord" : {
+            "de-DE" : "die Umarmung",
+            "en-US" : "the hug",
+            "es-ES" : "el abrazo",
+            "fr-FR" : "le câlin",
+            "it-IT" : "l’abbraccio",
+            "tr-TR" : "sarılma"
+          },
+          "title" : {
+            "de" : "Kuscheln wir und werden ruhig",
+            "en" : "Let’s Hug and Calm Down",
+            "tr" : "Sarılalım ve Sakinleşelim"
+          }
+        },
+        {
+          "assetName" : "word_goodnight",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Gute Nacht!",
+                "en-US" : "Good night!",
+                "es-ES" : "Buenas noches!",
+                "fr-FR" : "Bonne nuit !",
+                "it-IT" : "Buonanotte!",
+                "tr-TR" : "İyi geceler!"
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Schlaf gut.",
+                "en-US" : "Sleep well.",
+                "es-ES" : "Duerme bien.",
+                "fr-FR" : "Dors bien.",
+                "it-IT" : "Dormi bene.",
+                "tr-TR" : "İyi uyu."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Ich bin da.",
+                "en-US" : "I am here.",
+                "es-ES" : "Estoy aquí.",
+                "fr-FR" : "Je suis là.",
+                "it-IT" : "Sono qui.",
+                "tr-TR" : "Buradayım."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Jetzt schlafen wir.",
+                "en-US" : "Now we sleep.",
+                "es-ES" : "Ahora dormimos.",
+                "fr-FR" : "Maintenant, on dort.",
+                "it-IT" : "Ora dormiamo.",
+                "tr-TR" : "Şimdi uyuyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Bis morgen!",
+                "en-US" : "See you tomorrow!",
+                "es-ES" : "¡Hasta mañana!",
+                "fr-FR" : "À demain !",
+                "it-IT" : "A domani!",
+                "tr-TR" : "Yarın görüşürüz!"
+              }
+            }
+          ],
+          "id" : "sleep_say_goodnight",
+          "mainWord" : {
+            "de-DE" : "gute Nacht",
+            "en-US" : "good night",
+            "es-ES" : "buenas noches",
+            "fr-FR" : "bonne nuit",
+            "it-IT" : "buonanotte",
+            "tr-TR" : "iyi geceler"
+          },
+          "title" : {
+            "de" : "Sagen wir gute Nacht",
+            "en" : "Let’s Say Good Night",
+            "tr" : "İyi Geceler Diyelim"
+          }
+        }
+      ],
+      "id" : "sleep_routine",
+      "title" : {
+        "de" : "Schlafroutine",
+        "en" : "Sleep Routine",
+        "tr" : "Uyku Rutini"
+      }
+    },
+    {
+      "activities" : [
+        {
+          "assetName" : "word_doctor",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Arzt.",
+                "en-US" : "This is the doctor.",
+                "es-ES" : "Este es el médico.",
+                "fr-FR" : "C’est le médecin.",
+                "it-IT" : "Questo è il dottore.",
+                "tr-TR" : "Bu doktor."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wir gehen zum Arzt.",
+                "en-US" : "We are going to the doctor.",
+                "es-ES" : "Vamos al médico.",
+                "fr-FR" : "On va chez le médecin.",
+                "it-IT" : "Andiamo dal dottore.",
+                "tr-TR" : "Doktora gidiyoruz."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Arzt hilft.",
+                "en-US" : "The doctor helps.",
+                "es-ES" : "El médico ayuda.",
+                "fr-FR" : "Le médecin aide.",
+                "it-IT" : "Il dottore aiuta.",
+                "tr-TR" : "Doktor yardım eder."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir bleiben ruhig.",
+                "en-US" : "We stay calm.",
+                "es-ES" : "Estamos tranquilos.",
+                "fr-FR" : "On reste calmes.",
+                "it-IT" : "Restiamo calmi.",
+                "tr-TR" : "Sakin kalıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "doctor_going_to_doctor",
+          "mainWord" : {
+            "de-DE" : "der Arzt",
+            "en-US" : "the doctor",
+            "es-ES" : "el médico",
+            "fr-FR" : "le médecin",
+            "it-IT" : "il dottore",
+            "tr-TR" : "doktor"
+          },
+          "title" : {
+            "de" : "Wir gehen zum Arzt",
+            "en" : "We’re Going to the Doctor",
+            "tr" : "Doktora Gidiyoruz"
+          }
+        },
+        {
+          "assetName" : "word_hello_doctor",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Hallo, Arzt!",
+                "en-US" : "Hello, doctor!",
+                "es-ES" : "Hola, doctor!",
+                "fr-FR" : "Bonjour, docteur !",
+                "it-IT" : "Ciao, dottore!",
+                "tr-TR" : "Merhaba, doktor!"
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Guten Morgen!",
+                "en-US" : "Good morning!",
+                "es-ES" : "Buenos días!",
+                "fr-FR" : "Bonjour !",
+                "it-IT" : "Buongiorno!",
+                "tr-TR" : "Günaydın!"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir sagen Hallo.",
+                "en-US" : "We say hello.",
+                "es-ES" : "Decimos hola.",
+                "fr-FR" : "On dit bonjour.",
+                "it-IT" : "Diciamo ciao.",
+                "tr-TR" : "Merhaba diyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Der Arzt ist da.",
+                "en-US" : "The doctor is here.",
+                "es-ES" : "El médico está aquí.",
+                "fr-FR" : "Le médecin est là.",
+                "it-IT" : "Il dottore è qui.",
+                "tr-TR" : "Doktor burada."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "doctor_say_hello",
+          "mainWord" : {
+            "de-DE" : "hallo",
+            "en-US" : "hello",
+            "es-ES" : "hola",
+            "fr-FR" : "bonjour",
+            "it-IT" : "ciao",
+            "tr-TR" : "merhaba"
+          },
+          "title" : {
+            "de" : "Sagen wir dem Arzt Hallo",
+            "en" : "Let’s Say Hello to the Doctor",
+            "tr" : "Doktora Merhaba Diyelim"
+          }
+        },
+        {
+          "assetName" : "word_thermometer",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Thermometer.",
+                "en-US" : "This is the thermometer.",
+                "es-ES" : "Este es el termómetro.",
+                "fr-FR" : "C’est le thermomètre.",
+                "it-IT" : "Questo è il termometro.",
+                "tr-TR" : "Bu termometre."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist das Thermometer?",
+                "en-US" : "Where is the thermometer?",
+                "es-ES" : "¿Dónde está el termómetro?",
+                "fr-FR" : "Où est le thermomètre ?",
+                "it-IT" : "Dov’è il termometro?",
+                "tr-TR" : "Termometre nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir messen die Temperatur.",
+                "en-US" : "We check the temperature.",
+                "es-ES" : "Tomamos la temperatura.",
+                "fr-FR" : "On prend la température.",
+                "it-IT" : "Misuriamo la temperatura.",
+                "tr-TR" : "Ateşi ölçüyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Es ist schnell vorbei.",
+                "en-US" : "It will be quick.",
+                "es-ES" : "Será rápido.",
+                "fr-FR" : "Ce sera rapide.",
+                "it-IT" : "Sarà veloce.",
+                "tr-TR" : "Hemen bitecek."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "doctor_check_temperature",
+          "mainWord" : {
+            "de-DE" : "das Thermometer",
+            "en-US" : "the thermometer",
+            "es-ES" : "el termómetro",
+            "fr-FR" : "le thermomètre",
+            "it-IT" : "il termometro",
+            "tr-TR" : "termometre"
+          },
+          "title" : {
+            "de" : "Messen wir meine Temperatur",
+            "en" : "Let’s Check My Temperature",
+            "tr" : "Ateşimi Ölçelim"
+          }
+        },
+        {
+          "assetName" : "word_mouth",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Mund.",
+                "en-US" : "This is the mouth.",
+                "es-ES" : "Esta es la boca.",
+                "fr-FR" : "C’est la bouche.",
+                "it-IT" : "Questa è la bocca.",
+                "tr-TR" : "Bu ağız."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist dein Mund?",
+                "en-US" : "Where is your mouth?",
+                "es-ES" : "¿Dónde está tu boca?",
+                "fr-FR" : "Où est ta bouche ?",
+                "it-IT" : "Dov’è la tua bocca?",
+                "tr-TR" : "Ağzın nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Öffne den Mund.",
+                "en-US" : "Open your mouth.",
+                "es-ES" : "Abre la boca.",
+                "fr-FR" : "Ouvre la bouche.",
+                "it-IT" : "Apri la bocca.",
+                "tr-TR" : "Ağzını aç."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Der Arzt schaut kurz.",
+                "en-US" : "The doctor looks quickly.",
+                "es-ES" : "El médico mira rápido.",
+                "fr-FR" : "Le médecin regarde vite.",
+                "it-IT" : "Il dottore guarda velocemente.",
+                "tr-TR" : "Doktor kısa bakıyor."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "doctor_open_mouth",
+          "mainWord" : {
+            "de-DE" : "der Mund",
+            "en-US" : "the mouth",
+            "es-ES" : "la boca",
+            "fr-FR" : "la bouche",
+            "it-IT" : "la bocca",
+            "tr-TR" : "ağız"
+          },
+          "title" : {
+            "de" : "Öffnen wir meinen Mund",
+            "en" : "Let’s Open My Mouth",
+            "tr" : "Ağzımı Açalım"
+          }
+        },
+        {
+          "assetName" : "word_ear",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Ohr.",
+                "en-US" : "This is the ear.",
+                "es-ES" : "Este es el oído.",
+                "fr-FR" : "C’est l’oreille.",
+                "it-IT" : "Questo è l’orecchio.",
+                "tr-TR" : "Bu kulak."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist dein Ohr?",
+                "en-US" : "Where is your ear?",
+                "es-ES" : "¿Dónde está tu oído?",
+                "fr-FR" : "Où est ton oreille ?",
+                "it-IT" : "Dov’è il tuo orecchio?",
+                "tr-TR" : "Kulağın nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Arzt schaut ins Ohr.",
+                "en-US" : "The doctor checks the ear.",
+                "es-ES" : "El médico revisa el oído.",
+                "fr-FR" : "Le médecin regarde l’oreille.",
+                "it-IT" : "Il dottore controlla l’orecchio.",
+                "tr-TR" : "Doktor kulağa bakıyor."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Es ist schnell vorbei.",
+                "en-US" : "It will be quick.",
+                "es-ES" : "Será rápido.",
+                "fr-FR" : "Ce sera rapide.",
+                "it-IT" : "Sarà veloce.",
+                "tr-TR" : "Hemen bitecek."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "doctor_check_ears",
+          "mainWord" : {
+            "de-DE" : "das Ohr",
+            "en-US" : "the ear",
+            "es-ES" : "el oído",
+            "fr-FR" : "l’oreille",
+            "it-IT" : "l’orecchio",
+            "tr-TR" : "kulak"
+          },
+          "title" : {
+            "de" : "Schauen wir in meine Ohren",
+            "en" : "Let’s Check My Ears",
+            "tr" : "Kulaklarıma Bakalım"
+          }
+        },
+        {
+          "assetName" : "word_belly",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Bauch.",
+                "en-US" : "This is the belly.",
+                "es-ES" : "Esta es la barriga.",
+                "fr-FR" : "C’est le ventre.",
+                "it-IT" : "Questa è la pancia.",
+                "tr-TR" : "Bu karın."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist dein Bauch?",
+                "en-US" : "Where is your belly?",
+                "es-ES" : "¿Dónde está tu barriga?",
+                "fr-FR" : "Où est ton ventre ?",
+                "it-IT" : "Dov’è la tua pancia?",
+                "tr-TR" : "Karnın nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Arzt schaut den Bauch an.",
+                "en-US" : "The doctor checks the belly.",
+                "es-ES" : "El médico revisa la barriga.",
+                "fr-FR" : "Le médecin regarde le ventre.",
+                "it-IT" : "Il dottore controlla la pancia.",
+                "tr-TR" : "Doktor karna bakıyor."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Alles ist gut.",
+                "en-US" : "Everything is okay.",
+                "es-ES" : "Todo está bien.",
+                "fr-FR" : "Tout va bien.",
+                "it-IT" : "Va tutto bene.",
+                "tr-TR" : "Her şey yolunda."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "doctor_show_belly",
+          "mainWord" : {
+            "de-DE" : "der Bauch",
+            "en-US" : "the belly",
+            "es-ES" : "la barriga",
+            "fr-FR" : "le ventre",
+            "it-IT" : "la pancia",
+            "tr-TR" : "karın"
+          },
+          "title" : {
+            "de" : "Zeigen wir meinen Bauch",
+            "en" : "Let’s Show My Belly",
+            "tr" : "Karnımı Gösterelim"
+          }
+        },
+        {
+          "assetName" : "word_medicine",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Medizin.",
+                "en-US" : "This is the medicine.",
+                "es-ES" : "Esta es la medicina.",
+                "fr-FR" : "C’est le médicament.",
+                "it-IT" : "Questa è la medicina.",
+                "tr-TR" : "Bu ilaç."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Medizin?",
+                "en-US" : "Where is the medicine?",
+                "es-ES" : "¿Dónde está la medicina?",
+                "fr-FR" : "Où est le médicament ?",
+                "it-IT" : "Dov’è la medicina?",
+                "tr-TR" : "İlaç nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir nehmen die Medizin.",
+                "en-US" : "We take the medicine.",
+                "es-ES" : "Tomamos la medicina.",
+                "fr-FR" : "On prend le médicament.",
+                "it-IT" : "Prendiamo la medicina.",
+                "tr-TR" : "İlacı içiyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Fertig.",
+                "en-US" : "All done.",
+                "es-ES" : "Listo.",
+                "fr-FR" : "C’est fini.",
+                "it-IT" : "Finito.",
+                "tr-TR" : "Bitti."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "doctor_take_medicine",
+          "mainWord" : {
+            "de-DE" : "die Medizin",
+            "en-US" : "the medicine",
+            "es-ES" : "la medicina",
+            "fr-FR" : "le médicament",
+            "it-IT" : "la medicina",
+            "tr-TR" : "ilaç"
+          },
+          "title" : {
+            "de" : "Nehmen wir meine Medizin",
+            "en" : "Let’s Take My Medicine",
+            "tr" : "İlacımı İçelim"
+          }
+        },
+        {
+          "assetName" : "word_get_well",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Gute Besserung!",
+                "en-US" : "Get well soon!",
+                "es-ES" : "Que te mejores pronto!",
+                "fr-FR" : "Bon rétablissement !",
+                "it-IT" : "Pronta guarigione!",
+                "tr-TR" : "Geçmiş olsun!"
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Alles wird gut.",
+                "en-US" : "Everything will be okay.",
+                "es-ES" : "Todo estará bien.",
+                "fr-FR" : "Tout ira bien.",
+                "it-IT" : "Andrà tutto bene.",
+                "tr-TR" : "Her şey iyi olacak."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Ich bin da.",
+                "en-US" : "I am here.",
+                "es-ES" : "Estoy aquí.",
+                "fr-FR" : "Je suis là.",
+                "it-IT" : "Sono qui.",
+                "tr-TR" : "Buradayım."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Ruh dich aus.",
+                "en-US" : "Rest now.",
+                "es-ES" : "Descansa.",
+                "fr-FR" : "Repose-toi.",
+                "it-IT" : "Riposati.",
+                "tr-TR" : "Dinlen."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "doctor_get_well",
+          "mainWord" : {
+            "de-DE" : "gute Besserung",
+            "en-US" : "get well soon",
+            "es-ES" : "que te mejores pronto",
+            "fr-FR" : "bon rétablissement",
+            "it-IT" : "pronta guarigione",
+            "tr-TR" : "geçmiş olsun"
+          },
+          "title" : {
+            "de" : "Sagen wir gute Besserung",
+            "en" : "Let’s Say Get Well Soon",
+            "tr" : "Geçmiş Olsun Diyelim"
+          }
+        }
+      ],
+      "id" : "doctor_hospital",
+      "title" : {
+        "de" : "Arzt & Krankenhaus",
+        "en" : "Doctor & Hospital",
+        "tr" : "Doktor ve Hastane"
+      }
+    },
+    {
+      "activities" : [
+        {
+          "assetName" : "word_basket",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Korb.",
+                "en-US" : "This is the basket.",
+                "es-ES" : "Esta es la cesta.",
+                "fr-FR" : "C’est le panier.",
+                "it-IT" : "Questo è il cestino.",
+                "tr-TR" : "Bu sepet."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist der Korb?",
+                "en-US" : "Where is the basket?",
+                "es-ES" : "¿Dónde está la cesta?",
+                "fr-FR" : "Où est le panier ?",
+                "it-IT" : "Dov’è il cestino?",
+                "tr-TR" : "Sepet nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Korb ist hier.",
+                "en-US" : "The basket is here.",
+                "es-ES" : "La cesta está aquí.",
+                "fr-FR" : "Le panier est ici.",
+                "it-IT" : "Il cestino è qui.",
+                "tr-TR" : "Sepet burada."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Nehmen wir den Korb.",
+                "en-US" : "Let’s take the basket.",
+                "es-ES" : "Tomemos la cesta.",
+                "fr-FR" : "Prenons le panier.",
+                "it-IT" : "Prendiamo il cestino.",
+                "tr-TR" : "Sepeti alalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "shopping_take_basket",
+          "mainWord" : {
+            "de-DE" : "der Korb",
+            "en-US" : "the basket",
+            "es-ES" : "la cesta",
+            "fr-FR" : "le panier",
+            "it-IT" : "il cestino",
+            "tr-TR" : "sepet"
+          },
+          "title" : {
+            "de" : "Nehmen wir den Korb",
+            "en" : "Let’s Take the Basket",
+            "tr" : "Sepeti Alalım"
+          }
+        },
+        {
+          "assetName" : "word_apple",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Apfel.",
+                "en-US" : "This is the apple.",
+                "es-ES" : "Esta es la manzana.",
+                "fr-FR" : "C’est la pomme.",
+                "it-IT" : "Questa è la mela.",
+                "tr-TR" : "Bu elma."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist der Apfel?",
+                "en-US" : "Where is the apple?",
+                "es-ES" : "¿Dónde está la manzana?",
+                "fr-FR" : "Où est la pomme ?",
+                "it-IT" : "Dov’è la mela?",
+                "tr-TR" : "Elma nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Apfel ist rot.",
+                "en-US" : "The apple is red.",
+                "es-ES" : "La manzana es roja.",
+                "fr-FR" : "La pomme est rouge.",
+                "it-IT" : "La mela è rossa.",
+                "tr-TR" : "Elma kırmızı."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Legen wir den Apfel in den Korb.",
+                "en-US" : "Let’s put the apple in the basket.",
+                "es-ES" : "Pongamos la manzana en la cesta.",
+                "fr-FR" : "Mettons la pomme dans le panier.",
+                "it-IT" : "Mettiamo la mela nel cestino.",
+                "tr-TR" : "Elmayı sepete koyalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "shopping_find_apple",
+          "mainWord" : {
+            "de-DE" : "der Apfel",
+            "en-US" : "the apple",
+            "es-ES" : "la manzana",
+            "fr-FR" : "la pomme",
+            "it-IT" : "la mela",
+            "tr-TR" : "elma"
+          },
+          "title" : {
+            "de" : "Finden wir den Apfel",
+            "en" : "Let’s Find the Apple",
+            "tr" : "Elmayı Bulalım"
+          }
+        },
+        {
+          "assetName" : "word_milk",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Milch.",
+                "en-US" : "This is the milk.",
+                "es-ES" : "Esta es la leche.",
+                "fr-FR" : "C’est le lait.",
+                "it-IT" : "Questo è il latte.",
+                "tr-TR" : "Bu süt."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Milch?",
+                "en-US" : "Where is the milk?",
+                "es-ES" : "¿Dónde está la leche?",
+                "fr-FR" : "Où est le lait ?",
+                "it-IT" : "Dov’è il latte?",
+                "tr-TR" : "Süt nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Milch ist weiß.",
+                "en-US" : "The milk is white.",
+                "es-ES" : "La leche es blanca.",
+                "fr-FR" : "Le lait est blanc.",
+                "it-IT" : "Il latte è bianco.",
+                "tr-TR" : "Süt beyaz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Nehmen wir die Milch.",
+                "en-US" : "Let’s take the milk.",
+                "es-ES" : "Tomemos la leche.",
+                "fr-FR" : "Prenons le lait.",
+                "it-IT" : "Prendiamo il latte.",
+                "tr-TR" : "Sütü alalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "shopping_show_milk",
+          "mainWord" : {
+            "de-DE" : "die Milch",
+            "en-US" : "the milk",
+            "es-ES" : "la leche",
+            "fr-FR" : "le lait",
+            "it-IT" : "il latte",
+            "tr-TR" : "süt"
+          },
+          "title" : {
+            "de" : "Zeigen wir die Milch",
+            "en" : "Let’s Show the Milk",
+            "tr" : "Sütü Gösterelim"
+          }
+        },
+        {
+          "assetName" : "word_bread",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Brot.",
+                "en-US" : "This is the bread.",
+                "es-ES" : "Este es el pan.",
+                "fr-FR" : "C’est le pain.",
+                "it-IT" : "Questo è il pane.",
+                "tr-TR" : "Bu ekmek."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist das Brot?",
+                "en-US" : "Where is the bread?",
+                "es-ES" : "¿Dónde está el pan?",
+                "fr-FR" : "Où est le pain ?",
+                "it-IT" : "Dov’è il pane?",
+                "tr-TR" : "Ekmek nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Das Brot ist frisch.",
+                "en-US" : "The bread is fresh.",
+                "es-ES" : "El pan está fresco.",
+                "fr-FR" : "Le pain est frais.",
+                "it-IT" : "Il pane è fresco.",
+                "tr-TR" : "Ekmek taze."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wählen wir das Brot.",
+                "en-US" : "Let’s choose the bread.",
+                "es-ES" : "Elijamos el pan.",
+                "fr-FR" : "Choisissons le pain.",
+                "it-IT" : "Scegliamo il pane.",
+                "tr-TR" : "Ekmeği seçelim."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "shopping_choose_bread",
+          "mainWord" : {
+            "de-DE" : "das Brot",
+            "en-US" : "the bread",
+            "es-ES" : "el pan",
+            "fr-FR" : "le pain",
+            "it-IT" : "il pane",
+            "tr-TR" : "ekmek"
+          },
+          "title" : {
+            "de" : "Wählen wir das Brot",
+            "en" : "Let’s Choose the Bread",
+            "tr" : "Ekmeği Seçelim"
+          }
+        },
+        {
+          "assetName" : "word_shelf",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Regal.",
+                "en-US" : "This is the shelf.",
+                "es-ES" : "Esta es la estantería.",
+                "fr-FR" : "C’est l’étagère.",
+                "it-IT" : "Questo è lo scaffale.",
+                "tr-TR" : "Bu raf."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist das Regal?",
+                "en-US" : "Where is the shelf?",
+                "es-ES" : "¿Dónde está la estantería?",
+                "fr-FR" : "Où est l’étagère ?",
+                "it-IT" : "Dov’è lo scaffale?",
+                "tr-TR" : "Raf nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Im Regal sind Sachen.",
+                "en-US" : "There are things on the shelf.",
+                "es-ES" : "Hay cosas en la estantería.",
+                "fr-FR" : "Il y a des choses sur l’étagère.",
+                "it-IT" : "Ci sono cose sullo scaffale.",
+                "tr-TR" : "Rafta şeyler var."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Schauen wir ins Regal.",
+                "en-US" : "Let’s look at the shelf.",
+                "es-ES" : "Miremos la estantería.",
+                "fr-FR" : "Regardons l’étagère.",
+                "it-IT" : "Guardiamo lo scaffale.",
+                "tr-TR" : "Rafa bakalım."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "shopping_look_at_shelf",
+          "mainWord" : {
+            "de-DE" : "das Regal",
+            "en-US" : "the shelf",
+            "es-ES" : "la estantería",
+            "fr-FR" : "l’étagère",
+            "it-IT" : "lo scaffale",
+            "tr-TR" : "raf"
+          },
+          "title" : {
+            "de" : "Schauen wir ins Regal",
+            "en" : "Let’s Look at the Shelf",
+            "tr" : "Rafa Bakalım"
+          }
+        },
+        {
+          "assetName" : "word_cash_register",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Kasse.",
+                "en-US" : "This is the checkout.",
+                "es-ES" : "Esta es la caja.",
+                "fr-FR" : "C’est la caisse.",
+                "it-IT" : "Questa è la cassa.",
+                "tr-TR" : "Bu kasa."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Kasse?",
+                "en-US" : "Where is the checkout?",
+                "es-ES" : "¿Dónde está la caja?",
+                "fr-FR" : "Où est la caisse ?",
+                "it-IT" : "Dov’è la cassa?",
+                "tr-TR" : "Kasa nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir gehen zur Kasse.",
+                "en-US" : "We are going to the checkout.",
+                "es-ES" : "Vamos a la caja.",
+                "fr-FR" : "On va à la caisse.",
+                "it-IT" : "Andiamo alla cassa.",
+                "tr-TR" : "Kasaya gidiyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir warten kurz.",
+                "en-US" : "We wait a little.",
+                "es-ES" : "Esperamos un poco.",
+                "fr-FR" : "On attend un peu.",
+                "it-IT" : "Aspettiamo un po’.",
+                "tr-TR" : "Kısa bekliyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "shopping_go_to_checkout",
+          "mainWord" : {
+            "de-DE" : "die Kasse",
+            "en-US" : "the checkout",
+            "es-ES" : "la caja",
+            "fr-FR" : "la caisse",
+            "it-IT" : "la cassa",
+            "tr-TR" : "kasa"
+          },
+          "title" : {
+            "de" : "Gehen wir zur Kasse",
+            "en" : "Let’s Go to the Checkout",
+            "tr" : "Kasaya Gidelim"
+          }
+        },
+        {
+          "assetName" : "word_payment",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Wir bezahlen.",
+                "en-US" : "We are paying.",
+                "es-ES" : "Estamos pagando.",
+                "fr-FR" : "Nous payons.",
+                "it-IT" : "Stiamo pagando.",
+                "tr-TR" : "Ödeme yapıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Karte?",
+                "en-US" : "Where is the card?",
+                "es-ES" : "¿Dónde está la tarjeta?",
+                "fr-FR" : "Où est la carte ?",
+                "it-IT" : "Dov’è la carta?",
+                "tr-TR" : "Kart nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Zahlung ist fertig.",
+                "en-US" : "The payment is done.",
+                "es-ES" : "El pago ha terminado.",
+                "fr-FR" : "Le paiement est fini.",
+                "it-IT" : "Il pagamento è finito.",
+                "tr-TR" : "Ödeme bitti."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Jetzt sind wir fertig.",
+                "en-US" : "Now we are finished.",
+                "es-ES" : "Ahora hemos terminado.",
+                "fr-FR" : "Maintenant, c’est fini.",
+                "it-IT" : "Ora abbiamo finito.",
+                "tr-TR" : "Şimdi bittik."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "shopping_make_payment",
+          "mainWord" : {
+            "de-DE" : "bezahlen",
+            "en-US" : "payment",
+            "es-ES" : "el pago",
+            "fr-FR" : "le paiement",
+            "it-IT" : "il pagamento",
+            "tr-TR" : "ödeme"
+          },
+          "title" : {
+            "de" : "Bezahlen wir",
+            "en" : "Let’s Make the Payment",
+            "tr" : "Ödeme Yapalım"
+          }
+        },
+        {
+          "assetName" : "word_bag_shopping",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Tasche.",
+                "en-US" : "This is the bag.",
+                "es-ES" : "Esta es la bolsa.",
+                "fr-FR" : "C’est le sac.",
+                "it-IT" : "Questa è la borsa.",
+                "tr-TR" : "Bu poşet."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Tasche?",
+                "en-US" : "Where is the bag?",
+                "es-ES" : "¿Dónde está la bolsa?",
+                "fr-FR" : "Où est le sac ?",
+                "it-IT" : "Dov’è la borsa?",
+                "tr-TR" : "Poşet nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir tragen die Tasche.",
+                "en-US" : "We are carrying the bag.",
+                "es-ES" : "Llevamos la bolsa.",
+                "fr-FR" : "On porte le sac.",
+                "it-IT" : "Portiamo la borsa.",
+                "tr-TR" : "Poşeti taşıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Jetzt gehen wir nach Hause.",
+                "en-US" : "Now we are going home.",
+                "es-ES" : "Ahora vamos a casa.",
+                "fr-FR" : "Maintenant, on rentre à la maison.",
+                "it-IT" : "Ora andiamo a casa.",
+                "tr-TR" : "Şimdi eve gidiyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Super!",
+                "en-US" : "Great job!",
+                "es-ES" : "¡Muy bien!",
+                "fr-FR" : "Bravo !",
+                "it-IT" : "Brava!",
+                "tr-TR" : "Harika!"
+              }
+            }
+          ],
+          "id" : "shopping_carry_bag",
+          "mainWord" : {
+            "de-DE" : "die Tasche",
+            "en-US" : "the bag",
+            "es-ES" : "la bolsa",
+            "fr-FR" : "le sac",
+            "it-IT" : "la borsa",
+            "tr-TR" : "poşet"
+          },
+          "title" : {
+            "de" : "Tragen wir die Tasche",
+            "en" : "Let’s Carry the Bag",
+            "tr" : "Poşeti Taşıyalım"
+          }
+        }
+      ],
+      "id" : "shopping",
+      "title" : {
+        "de" : "Einkaufen",
+        "en" : "Shopping",
+        "tr" : "Alışveriş"
+      }
+    },
+    {
+      "activities" : [
+        {
+          "assetName" : "word_stop",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Stopp.",
+                "en-US" : "Stop.",
+                "es-ES" : "Alto.",
+                "fr-FR" : "Stop.",
+                "it-IT" : "Stop.",
+                "tr-TR" : "Dur."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wir halten an.",
+                "en-US" : "We stop.",
+                "es-ES" : "Paramos.",
+                "fr-FR" : "On s’arrête.",
+                "it-IT" : "Ci fermiamo.",
+                "tr-TR" : "Duruyoruz."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir schauen.",
+                "en-US" : "We look.",
+                "es-ES" : "Miramos.",
+                "fr-FR" : "On regarde.",
+                "it-IT" : "Guardiamo.",
+                "tr-TR" : "Bakıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir warten kurz.",
+                "en-US" : "We wait a little.",
+                "es-ES" : "Esperamos un poco.",
+                "fr-FR" : "On attend un peu.",
+                "it-IT" : "Aspettiamo un po’.",
+                "tr-TR" : "Kısa bekliyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "traffic_stop_and_look",
+          "mainWord" : {
+            "de-DE" : "stopp",
+            "en-US" : "stop",
+            "es-ES" : "alto",
+            "fr-FR" : "stop",
+            "it-IT" : "stop",
+            "tr-TR" : "dur"
+          },
+          "title" : {
+            "de" : "Halten wir an und schauen",
+            "en" : "Let’s Stop and Look",
+            "tr" : "Yolda Durup Bakalım"
+          }
+        },
+        {
+          "assetName" : "word_hand",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Hand.",
+                "en-US" : "This is the hand.",
+                "es-ES" : "Esta es la mano.",
+                "fr-FR" : "C’est la main.",
+                "it-IT" : "Questa è la mano.",
+                "tr-TR" : "Bu el."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist deine Hand?",
+                "en-US" : "Where is your hand?",
+                "es-ES" : "¿Dónde está tu mano?",
+                "fr-FR" : "Où est ta main ?",
+                "it-IT" : "Dov’è la tua mano?",
+                "tr-TR" : "Elin nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Gib mir deine Hand.",
+                "en-US" : "Give me your hand.",
+                "es-ES" : "Dame la mano.",
+                "fr-FR" : "Donne-moi ta main.",
+                "it-IT" : "Dammi la mano.",
+                "tr-TR" : "Elini ver."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir gehen zusammen.",
+                "en-US" : "We walk together.",
+                "es-ES" : "Caminamos juntos.",
+                "fr-FR" : "On marche ensemble.",
+                "it-IT" : "Camminiamo insieme.",
+                "tr-TR" : "Birlikte yürüyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "traffic_hold_hand",
+          "mainWord" : {
+            "de-DE" : "die Hand",
+            "en-US" : "the hand",
+            "es-ES" : "la mano",
+            "fr-FR" : "la main",
+            "it-IT" : "la mano",
+            "tr-TR" : "el"
+          },
+          "title" : {
+            "de" : "Halten wir die Hand",
+            "en" : "Let’s Hold Hands",
+            "tr" : "Elimi Tutalım"
+          }
+        },
+        {
+          "assetName" : "word_car",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Auto.",
+                "en-US" : "This is the car.",
+                "es-ES" : "Este es el coche.",
+                "fr-FR" : "C’est la voiture.",
+                "it-IT" : "Questa è la macchina.",
+                "tr-TR" : "Bu araba."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist das Auto?",
+                "en-US" : "Where is the car?",
+                "es-ES" : "¿Dónde está el coche?",
+                "fr-FR" : "Où est la voiture ?",
+                "it-IT" : "Dov’è la macchina?",
+                "tr-TR" : "Araba nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Das Auto fährt.",
+                "en-US" : "The car is moving.",
+                "es-ES" : "El coche se mueve.",
+                "fr-FR" : "La voiture roule.",
+                "it-IT" : "La macchina va.",
+                "tr-TR" : "Araba gidiyor."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir schauen.",
+                "en-US" : "We look.",
+                "es-ES" : "Miramos.",
+                "fr-FR" : "On regarde.",
+                "it-IT" : "Guardiamo.",
+                "tr-TR" : "Bakıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "traffic_show_car",
+          "mainWord" : {
+            "de-DE" : "das Auto",
+            "en-US" : "the car",
+            "es-ES" : "el coche",
+            "fr-FR" : "la voiture",
+            "it-IT" : "la macchina",
+            "tr-TR" : "araba"
+          },
+          "title" : {
+            "de" : "Zeigen wir das Auto",
+            "en" : "Let’s Show the Car",
+            "tr" : "Arabayı Gösterelim"
+          }
+        },
+        {
+          "assetName" : "word_bicycle",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Fahrrad.",
+                "en-US" : "This is the bicycle.",
+                "es-ES" : "Esta es la bicicleta.",
+                "fr-FR" : "C’est le vélo.",
+                "it-IT" : "Questa è la bicicletta.",
+                "tr-TR" : "Bu bisiklet."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist das Fahrrad?",
+                "en-US" : "Where is the bicycle?",
+                "es-ES" : "¿Dónde está la bicicleta?",
+                "fr-FR" : "Où est le vélo ?",
+                "it-IT" : "Dov’è la bicicletta?",
+                "tr-TR" : "Bisiklet nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Das Fahrrad fährt.",
+                "en-US" : "The bicycle is moving.",
+                "es-ES" : "La bicicleta se mueve.",
+                "fr-FR" : "Le vélo roule.",
+                "it-IT" : "La bicicletta va.",
+                "tr-TR" : "Bisiklet gidiyor."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir bleiben hier.",
+                "en-US" : "We stay here.",
+                "es-ES" : "Nos quedamos aquí.",
+                "fr-FR" : "On reste ici.",
+                "it-IT" : "Restiamo qui.",
+                "tr-TR" : "Burada kalıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "traffic_show_bicycle",
+          "mainWord" : {
+            "de-DE" : "das Fahrrad",
+            "en-US" : "the bicycle",
+            "es-ES" : "la bicicleta",
+            "fr-FR" : "le vélo",
+            "it-IT" : "la bicicletta",
+            "tr-TR" : "bisiklet"
+          },
+          "title" : {
+            "de" : "Zeigen wir das Fahrrad",
+            "en" : "Let’s Show the Bicycle",
+            "tr" : "Bisikleti Gösterelim"
+          }
+        },
+        {
+          "assetName" : "word_red_light",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das Licht ist rot.",
+                "en-US" : "The light is red.",
+                "es-ES" : "La luz está roja.",
+                "fr-FR" : "Le feu est rouge.",
+                "it-IT" : "La luce è rossa.",
+                "tr-TR" : "Işık kırmızı."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Rot heißt warten.",
+                "en-US" : "Red means wait.",
+                "es-ES" : "Rojo significa esperar.",
+                "fr-FR" : "Rouge veut dire attendre.",
+                "it-IT" : "Rosso vuol dire aspettare.",
+                "tr-TR" : "Kırmızı beklemek demek."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir warten.",
+                "en-US" : "We wait.",
+                "es-ES" : "Esperamos.",
+                "fr-FR" : "On attend.",
+                "it-IT" : "Aspettiamo.",
+                "tr-TR" : "Bekliyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir bleiben stehen.",
+                "en-US" : "We stand still.",
+                "es-ES" : "Nos quedamos parados.",
+                "fr-FR" : "On reste arrêtés.",
+                "it-IT" : "Restiamo fermi.",
+                "tr-TR" : "Duruyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "traffic_wait_red_light",
+          "mainWord" : {
+            "de-DE" : "rot",
+            "en-US" : "red",
+            "es-ES" : "rojo",
+            "fr-FR" : "rouge",
+            "it-IT" : "rosso",
+            "tr-TR" : "kırmızı"
+          },
+          "title" : {
+            "de" : "Warten wir bei Rot",
+            "en" : "Let’s Wait at the Red Light",
+            "tr" : "Kırmızı Işığı Bekleyelim"
+          }
+        },
+        {
+          "assetName" : "word_green_light",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das Licht ist grün.",
+                "en-US" : "The light is green.",
+                "es-ES" : "La luz está verde.",
+                "fr-FR" : "Le feu est vert.",
+                "it-IT" : "La luce è verde.",
+                "tr-TR" : "Işık yeşil."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Grün heißt gehen.",
+                "en-US" : "Green means go.",
+                "es-ES" : "Verde significa cruzar.",
+                "fr-FR" : "Vert veut dire passer.",
+                "it-IT" : "Verde vuol dire passare.",
+                "tr-TR" : "Yeşil geçmek demek."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir gehen zusammen.",
+                "en-US" : "We cross together.",
+                "es-ES" : "Cruzamos juntos.",
+                "fr-FR" : "On traverse ensemble.",
+                "it-IT" : "Attraversiamo insieme.",
+                "tr-TR" : "Birlikte geçiyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir halten die Hand.",
+                "en-US" : "We hold hands.",
+                "es-ES" : "Nos tomamos la mano.",
+                "fr-FR" : "On se donne la main.",
+                "it-IT" : "Ci teniamo per mano.",
+                "tr-TR" : "El tutuyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "traffic_cross_green_light",
+          "mainWord" : {
+            "de-DE" : "grün",
+            "en-US" : "green",
+            "es-ES" : "verde",
+            "fr-FR" : "vert",
+            "it-IT" : "verde",
+            "tr-TR" : "yeşil"
+          },
+          "title" : {
+            "de" : "Gehen wir bei Grün",
+            "en" : "Let’s Cross at the Green Light",
+            "tr" : "Yeşil Işıkta Geçelim"
+          }
+        },
+        {
+          "assetName" : "word_sidewalk",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Gehweg.",
+                "en-US" : "This is the sidewalk.",
+                "es-ES" : "Esta es la acera.",
+                "fr-FR" : "C’est le trottoir.",
+                "it-IT" : "Questo è il marciapiede.",
+                "tr-TR" : "Bu kaldırım."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist der Gehweg?",
+                "en-US" : "Where is the sidewalk?",
+                "es-ES" : "¿Dónde está la acera?",
+                "fr-FR" : "Où est le trottoir ?",
+                "it-IT" : "Dov’è il marciapiede?",
+                "tr-TR" : "Kaldırım nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir gehen auf dem Gehweg.",
+                "en-US" : "We walk on the sidewalk.",
+                "es-ES" : "Caminamos por la acera.",
+                "fr-FR" : "On marche sur le trottoir.",
+                "it-IT" : "Camminiamo sul marciapiede.",
+                "tr-TR" : "Kaldırımda yürüyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir gehen zusammen.",
+                "en-US" : "We walk together.",
+                "es-ES" : "Caminamos juntos.",
+                "fr-FR" : "On marche ensemble.",
+                "it-IT" : "Camminiamo insieme.",
+                "tr-TR" : "Birlikte yürüyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "traffic_walk_on_sidewalk",
+          "mainWord" : {
+            "de-DE" : "der Gehweg",
+            "en-US" : "the sidewalk",
+            "es-ES" : "la acera",
+            "fr-FR" : "le trottoir",
+            "it-IT" : "il marciapiede",
+            "tr-TR" : "kaldırım"
+          },
+          "title" : {
+            "de" : "Gehen wir auf dem Gehweg",
+            "en" : "Let’s Walk on the Sidewalk",
+            "tr" : "Kaldırımda Yürüyelim"
+          }
+        },
+        {
+          "assetName" : "word_attention",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Achtung.",
+                "en-US" : "Attention.",
+                "es-ES" : "Atención.",
+                "fr-FR" : "Attention.",
+                "it-IT" : "Attenzione.",
+                "tr-TR" : "Dikkat."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wir schauen.",
+                "en-US" : "We look.",
+                "es-ES" : "Miramos.",
+                "fr-FR" : "On regarde.",
+                "it-IT" : "Guardiamo.",
+                "tr-TR" : "Bakıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Wir gehen langsam.",
+                "en-US" : "We walk slowly.",
+                "es-ES" : "Caminamos despacio.",
+                "fr-FR" : "On marche doucement.",
+                "it-IT" : "Camminiamo piano.",
+                "tr-TR" : "Yavaş yürüyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir bleiben zusammen.",
+                "en-US" : "We stay together.",
+                "es-ES" : "Nos quedamos juntos.",
+                "fr-FR" : "On reste ensemble.",
+                "it-IT" : "Restiamo insieme.",
+                "tr-TR" : "Birlikte kalıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "traffic_pay_attention",
+          "mainWord" : {
+            "de-DE" : "Achtung",
+            "en-US" : "attention",
+            "es-ES" : "atención",
+            "fr-FR" : "attention",
+            "it-IT" : "attenzione",
+            "tr-TR" : "dikkat"
+          },
+          "title" : {
+            "de" : "Passen wir auf",
+            "en" : "Let’s Pay Attention",
+            "tr" : "Dikkat Edelim"
+          }
+        }
+      ],
+      "id" : "road_traffic_safety",
+      "title" : {
+        "de" : "Straße / Verkehr / Sicherheit",
+        "en" : "Road / Traffic / Safety",
+        "tr" : "Yol / Trafik / Güvenlik"
+      }
+    },
+    {
+      "activities" : [
+        {
+          "assetName" : "word_sun",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Sonne.",
+                "en-US" : "This is the sun.",
+                "es-ES" : "Este es el sol.",
+                "fr-FR" : "C’est le soleil.",
+                "it-IT" : "Questo è il sole.",
+                "tr-TR" : "Bu güneş."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Sonne?",
+                "en-US" : "Where is the sun?",
+                "es-ES" : "¿Dónde está el sol?",
+                "fr-FR" : "Où est le soleil ?",
+                "it-IT" : "Dov’è il sole?",
+                "tr-TR" : "Güneş nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Sonne ist hell.",
+                "en-US" : "The sun is bright.",
+                "es-ES" : "El sol brilla.",
+                "fr-FR" : "Le soleil est lumineux.",
+                "it-IT" : "Il sole è luminoso.",
+                "tr-TR" : "Güneş parlak."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir schauen in den Himmel.",
+                "en-US" : "We look at the sky.",
+                "es-ES" : "Miramos el cielo.",
+                "fr-FR" : "On regarde le ciel.",
+                "it-IT" : "Guardiamo il cielo.",
+                "tr-TR" : "Gökyüzüne bakıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "weather_show_sun",
+          "mainWord" : {
+            "de-DE" : "die Sonne",
+            "en-US" : "the sun",
+            "es-ES" : "el sol",
+            "fr-FR" : "le soleil",
+            "it-IT" : "il sole",
+            "tr-TR" : "güneş"
+          },
+          "title" : {
+            "de" : "Zeigen wir die Sonne",
+            "en" : "Let’s Show the Sun",
+            "tr" : "Güneşi Gösterelim"
+          }
+        },
+        {
+          "assetName" : "word_rain",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Regen.",
+                "en-US" : "This is the rain.",
+                "es-ES" : "Esta es la lluvia.",
+                "fr-FR" : "C’est la pluie.",
+                "it-IT" : "Questa è la pioggia.",
+                "tr-TR" : "Bu yağmur."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Hörst du den Regen?",
+                "en-US" : "Do you hear the rain?",
+                "es-ES" : "¿Oyes la lluvia?",
+                "fr-FR" : "Tu entends la pluie ?",
+                "it-IT" : "Senti la pioggia?",
+                "tr-TR" : "Yağmuru duyuyor musun?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Regen ist da.",
+                "en-US" : "The rain is here.",
+                "es-ES" : "Hay lluvia.",
+                "fr-FR" : "La pluie est là.",
+                "it-IT" : "C’è la pioggia.",
+                "tr-TR" : "Yağmur var."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir hören den Regen.",
+                "en-US" : "We listen to the rain.",
+                "es-ES" : "Escuchamos la lluvia.",
+                "fr-FR" : "On écoute la pluie.",
+                "it-IT" : "Ascoltiamo la pioggia.",
+                "tr-TR" : "Yağmuru dinliyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "weather_listen_rain",
+          "mainWord" : {
+            "de-DE" : "der Regen",
+            "en-US" : "the rain",
+            "es-ES" : "la lluvia",
+            "fr-FR" : "la pluie",
+            "it-IT" : "la pioggia",
+            "tr-TR" : "yağmur"
+          },
+          "title" : {
+            "de" : "Hören wir den Regen",
+            "en" : "Let’s Listen to the Rain",
+            "tr" : "Yağmuru Dinleyelim"
+          }
+        },
+        {
+          "assetName" : "word_wind",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Wind.",
+                "en-US" : "This is the wind.",
+                "es-ES" : "Este es el viento.",
+                "fr-FR" : "C’est le vent.",
+                "it-IT" : "Questo è il vento.",
+                "tr-TR" : "Bu rüzgar."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Spürst du den Wind?",
+                "en-US" : "Do you feel the wind?",
+                "es-ES" : "¿Sientes el viento?",
+                "fr-FR" : "Tu sens le vent ?",
+                "it-IT" : "Senti il vento?",
+                "tr-TR" : "Rüzgarı hissediyor musun?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Wind bewegt sich.",
+                "en-US" : "The wind is moving.",
+                "es-ES" : "El viento se mueve.",
+                "fr-FR" : "Le vent bouge.",
+                "it-IT" : "Il vento si muove.",
+                "tr-TR" : "Rüzgar hareket ediyor."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir fühlen den Wind.",
+                "en-US" : "We feel the wind.",
+                "es-ES" : "Sentimos el viento.",
+                "fr-FR" : "On sent le vent.",
+                "it-IT" : "Sentiamo il vento.",
+                "tr-TR" : "Rüzgarı hissediyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "weather_feel_wind",
+          "mainWord" : {
+            "de-DE" : "der Wind",
+            "en-US" : "the wind",
+            "es-ES" : "el viento",
+            "fr-FR" : "le vent",
+            "it-IT" : "il vento",
+            "tr-TR" : "rüzgar"
+          },
+          "title" : {
+            "de" : "Spüren wir den Wind",
+            "en" : "Let’s Feel the Wind",
+            "tr" : "Rüzgarı Hissedelim"
+          }
+        },
+        {
+          "assetName" : "word_cloud",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Wolke.",
+                "en-US" : "This is the cloud.",
+                "es-ES" : "Esta es la nube.",
+                "fr-FR" : "C’est le nuage.",
+                "it-IT" : "Questa è la nuvola.",
+                "tr-TR" : "Bu bulut."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist die Wolke?",
+                "en-US" : "Where is the cloud?",
+                "es-ES" : "¿Dónde está la nube?",
+                "fr-FR" : "Où est le nuage ?",
+                "it-IT" : "Dov’è la nuvola?",
+                "tr-TR" : "Bulut nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Die Wolke ist weiß.",
+                "en-US" : "The cloud is white.",
+                "es-ES" : "La nube es blanca.",
+                "fr-FR" : "Le nuage est blanc.",
+                "it-IT" : "La nuvola è bianca.",
+                "tr-TR" : "Bulut beyaz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir schauen in den Himmel.",
+                "en-US" : "We look at the sky.",
+                "es-ES" : "Miramos el cielo.",
+                "fr-FR" : "On regarde le ciel.",
+                "it-IT" : "Guardiamo il cielo.",
+                "tr-TR" : "Gökyüzüne bakıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "weather_look_at_clouds",
+          "mainWord" : {
+            "de-DE" : "die Wolke",
+            "en-US" : "the cloud",
+            "es-ES" : "la nube",
+            "fr-FR" : "le nuage",
+            "it-IT" : "la nuvola",
+            "tr-TR" : "bulut"
+          },
+          "title" : {
+            "de" : "Schauen wir die Wolken an",
+            "en" : "Let’s Look at the Clouds",
+            "tr" : "Bulutlara Bakalım"
+          }
+        },
+        {
+          "assetName" : "word_snow",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist der Schnee.",
+                "en-US" : "This is the snow.",
+                "es-ES" : "Esta es la nieve.",
+                "fr-FR" : "C’est la neige.",
+                "it-IT" : "Questa è la neve.",
+                "tr-TR" : "Bu kar."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wo ist der Schnee?",
+                "en-US" : "Where is the snow?",
+                "es-ES" : "¿Dónde está la nieve?",
+                "fr-FR" : "Où est la neige ?",
+                "it-IT" : "Dov’è la neve?",
+                "tr-TR" : "Kar nerede?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Der Schnee ist weiß.",
+                "en-US" : "The snow is white.",
+                "es-ES" : "La nieve es blanca.",
+                "fr-FR" : "La neige est blanche.",
+                "it-IT" : "La neve è bianca.",
+                "tr-TR" : "Kar beyaz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Der Schnee ist kalt.",
+                "en-US" : "The snow is cold.",
+                "es-ES" : "La nieve es fría.",
+                "fr-FR" : "La neige est froide.",
+                "it-IT" : "La neve è fredda.",
+                "tr-TR" : "Kar soğuk."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "weather_learn_snow",
+          "mainWord" : {
+            "de-DE" : "der Schnee",
+            "en-US" : "the snow",
+            "es-ES" : "la nieve",
+            "fr-FR" : "la neige",
+            "it-IT" : "la neve",
+            "tr-TR" : "kar"
+          },
+          "title" : {
+            "de" : "Lernen wir Schnee kennen",
+            "en" : "Let’s Learn Snow",
+            "tr" : "Karı Tanıyalım"
+          }
+        },
+        {
+          "assetName" : "word_hot_cold",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Es ist warm.",
+                "en-US" : "It is hot.",
+                "es-ES" : "Hace calor.",
+                "fr-FR" : "Il fait chaud.",
+                "it-IT" : "Fa caldo.",
+                "tr-TR" : "Hava sıcak."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Es ist kalt.",
+                "en-US" : "It is cold.",
+                "es-ES" : "Hace frío.",
+                "fr-FR" : "Il fait froid.",
+                "it-IT" : "Fa freddo.",
+                "tr-TR" : "Hava soğuk."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Fühlst du es?",
+                "en-US" : "Do you feel it?",
+                "es-ES" : "¿Lo sientes?",
+                "fr-FR" : "Tu le sens ?",
+                "it-IT" : "Lo senti?",
+                "tr-TR" : "Hissediyor musun?"
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Heute ist es warm.",
+                "en-US" : "Today it is warm.",
+                "es-ES" : "Hoy hace calor.",
+                "fr-FR" : "Aujourd’hui, il fait chaud.",
+                "it-IT" : "Oggi fa caldo.",
+                "tr-TR" : "Bugün sıcak."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "weather_hot_or_cold",
+          "mainWord" : {
+            "de-DE" : "warm / kalt",
+            "en-US" : "hot / cold",
+            "es-ES" : "calor / frío",
+            "fr-FR" : "chaud / froid",
+            "it-IT" : "caldo / freddo",
+            "tr-TR" : "sıcak / soğuk"
+          },
+          "title" : {
+            "de" : "Warm oder kalt?",
+            "en" : "Is It Hot or Cold?",
+            "tr" : "Sıcak mı Soğuk mu?"
+          }
+        },
+        {
+          "assetName" : "word_weather_clothes",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist die Jacke.",
+                "en-US" : "This is the jacket.",
+                "es-ES" : "Esta es la chaqueta.",
+                "fr-FR" : "C’est la veste.",
+                "it-IT" : "Questa è la giacca.",
+                "tr-TR" : "Bu mont."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Das ist das T-Shirt.",
+                "en-US" : "This is the T-shirt.",
+                "es-ES" : "Esta es la camiseta.",
+                "fr-FR" : "C’est le t-shirt.",
+                "it-IT" : "Questa è la maglietta.",
+                "tr-TR" : "Bu tişört."
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Ist es kalt?",
+                "en-US" : "Is it cold?",
+                "es-ES" : "¿Hace frío?",
+                "fr-FR" : "Il fait froid ?",
+                "it-IT" : "Fa freddo?",
+                "tr-TR" : "Hava soğuk mu?"
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Wir wählen die Jacke.",
+                "en-US" : "We choose the jacket.",
+                "es-ES" : "Elegimos la chaqueta.",
+                "fr-FR" : "On choisit la veste.",
+                "it-IT" : "Scegliamo la giacca.",
+                "tr-TR" : "Montu seçiyoruz."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "weather_jacket_or_tshirt",
+          "mainWord" : {
+            "de-DE" : "die Jacke / das T-Shirt",
+            "en-US" : "jacket / T-shirt",
+            "es-ES" : "la chaqueta / la camiseta",
+            "fr-FR" : "la veste / le t-shirt",
+            "it-IT" : "la giacca / la maglietta",
+            "tr-TR" : "mont / tişört"
+          },
+          "title" : {
+            "de" : "Jacke oder T-Shirt?",
+            "en" : "Jacket or T-Shirt?",
+            "tr" : "Mont mu Tişört mü?"
+          }
+        },
+        {
+          "assetName" : "word_weather",
+          "dailySentences" : [
+            {
+              "id" : "sentence_1",
+              "texts" : {
+                "de-DE" : "Das ist das Wetter.",
+                "en-US" : "This is the weather.",
+                "es-ES" : "Este es el clima.",
+                "fr-FR" : "C’est la météo.",
+                "it-IT" : "Questo è il tempo.",
+                "tr-TR" : "Bu hava."
+              }
+            },
+            {
+              "id" : "sentence_2",
+              "texts" : {
+                "de-DE" : "Wie ist das Wetter?",
+                "en-US" : "How is the weather?",
+                "es-ES" : "¿Cómo está el clima?",
+                "fr-FR" : "Quel temps fait-il ?",
+                "it-IT" : "Com’è il tempo?",
+                "tr-TR" : "Hava nasıl?"
+              }
+            },
+            {
+              "id" : "sentence_3",
+              "texts" : {
+                "de-DE" : "Heute schauen wir raus.",
+                "en-US" : "Today we look outside.",
+                "es-ES" : "Hoy miramos afuera.",
+                "fr-FR" : "Aujourd’hui, on regarde dehors.",
+                "it-IT" : "Oggi guardiamo fuori.",
+                "tr-TR" : "Bugün dışarı bakıyoruz."
+              }
+            },
+            {
+              "id" : "sentence_4",
+              "texts" : {
+                "de-DE" : "Das Wetter ist anders.",
+                "en-US" : "The weather is different.",
+                "es-ES" : "El clima cambia.",
+                "fr-FR" : "La météo change.",
+                "it-IT" : "Il tempo cambia.",
+                "tr-TR" : "Hava farklı."
+              }
+            },
+            {
+              "id" : "sentence_5",
+              "texts" : {
+                "de-DE" : "Sehr gut!",
+                "en-US" : "Very good!",
+                "es-ES" : "Muy bien!",
+                "fr-FR" : "Très bien !",
+                "it-IT" : "Molto bene!",
+                "tr-TR" : "Çok güzel!"
+              }
+            }
+          ],
+          "id" : "weather_how_is_today",
+          "mainWord" : {
+            "de-DE" : "das Wetter",
+            "en-US" : "the weather",
+            "es-ES" : "el clima",
+            "fr-FR" : "la météo",
+            "it-IT" : "il tempo",
+            "tr-TR" : "hava"
+          },
+          "title" : {
+            "de" : "Wie ist das Wetter heute?",
+            "en" : "How Is the Weather Today?",
+            "tr" : "Bugün Hava Nasıl?"
+          }
+        }
+      ],
+      "id" : "seasons_weather",
+      "title" : {
+        "de" : "Jahreszeiten & Wetter",
+        "en" : "Seasons & Weather",
+        "tr" : "Mevsimler & Hava Durumu"
+      }
+    }
+  ]
+}

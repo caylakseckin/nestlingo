@@ -1,0 +1,77 @@
+{
+  "daycare_exploring": [
+    {"tr-TR": "Bugün kreşe gidiyoruz.", "en-US": "Today we're going to daycare.", "de-DE": "Heute gehen wir in die Kita.", "fr-FR": "Aujourd’hui, nous allons à la crèche.", "es-ES": "Hoy vamos a la guardería.", "it-IT": "Oggi andiamo all’asilo."},
+    {"tr-TR": "Çantan hazır.", "en-US": "Your bag is ready.", "de-DE": "Deine Tasche ist fertig.", "fr-FR": "Ton sac est prêt.", "es-ES": "Tu mochila está lista.", "it-IT": "La tua borsa è pronta."},
+    {"tr-TR": "Seni bırakıyorum, sonra geliyorum.", "en-US": "I'm dropping you off, I'll come back.", "de-DE": "Ich bringe dich hin, ich komme später wieder.", "fr-FR": "Je te dépose, je reviens après.", "es-ES": "Te dejo aquí, vuelvo después.", "it-IT": "Ti lascio qui, torno dopo."}
+  ],
+  "daycare_words": [
+    {"tr-TR": "Yardım eder misin?", "en-US": "Can you help me?", "de-DE": "Kannst du mir helfen?", "fr-FR": "Tu peux m’aider ?", "es-ES": "¿Me ayudas?", "it-IT": "Mi aiuti?"},
+    {"tr-TR": "Birlikte oynayalım mı?", "en-US": "Shall we play together?", "de-DE": "Wollen wir zusammen spielen?", "fr-FR": "On joue ensemble ?", "es-ES": "¿Jugamos juntos?", "it-IT": "Giochiamo insieme?"},
+    {"tr-TR": "Seni almaya geleceğim.", "en-US": "I'll come back to pick you up.", "de-DE": "Ich komme wieder und hole dich ab.", "fr-FR": "Je reviendrai te chercher.", "es-ES": "Volveré a buscarte.", "it-IT": "Tornerò a prenderti."}
+  ],
+  "daycare_phrases": [
+    {"tr-TR": "Bugün kreşte ne yapmak istersin?", "en-US": "What would you like to do at daycare today?", "de-DE": "Was möchtest du heute in der Kita machen?", "fr-FR": "Qu’aimerais-tu faire à la crèche aujourd’hui ?", "es-ES": "¿Qué te gustaría hacer hoy en la guardería?", "it-IT": "Cosa vorresti fare oggi all’asilo?"},
+    {"tr-TR": "Arkadaşınla mı oynayacaksın yoksa öğretmeninle mi?", "en-US": "Will you play with your friend or your teacher?", "de-DE": "Spielst du mit deinem Freund oder mit deiner Erzieherin?", "fr-FR": "Tu vas jouer avec ton ami ou avec ta maîtresse ?", "es-ES": "¿Vas a jugar con tu amigo o con tu maestra?", "it-IT": "Giocherai con il tuo amico o con la tua maestra?"},
+    {"tr-TR": "Eve gelince bana günü anlatır mısın?", "en-US": "Will you tell me about your day when we get home?", "de-DE": "Erzählst du mir zu Hause von deinem Tag?", "fr-FR": "Tu me racontes ta journée quand on rentre à la maison ?", "es-ES": "¿Me cuentas tu día cuando lleguemos a casa?", "it-IT": "Mi racconti la tua giornata quando torniamo a casa?"}
+  ],
+  "mealtimes_exploring": [
+    {"tr-TR": "Şimdi yemek yiyoruz.", "en-US": "Now we're eating.", "de-DE": "Jetzt essen wir.", "fr-FR": "Maintenant, nous mangeons.", "es-ES": "Ahora estamos comiendo.", "it-IT": "Adesso mangiamo."},
+    {"tr-TR": "Bu senin kaşığın.", "en-US": "This is your spoon.", "de-DE": "Das ist dein Löffel.", "fr-FR": "C’est ta cuillère.", "es-ES": "Esta es tu cuchara.", "it-IT": "Questo è il tuo cucchiaio."},
+    {"tr-TR": "Sıcak, biraz üfleyelim.", "en-US": "It's hot, let's blow on it.", "de-DE": "Es ist heiß, lass uns pusten.", "fr-FR": "C’est chaud, on souffle un peu.", "es-ES": "Está caliente, vamos a soplar un poco.", "it-IT": "È caldo, soffiamo un po’."}
+  ],
+  "mealtimes_words": [
+    {"tr-TR": "Biraz daha ister misin?", "en-US": "Would you like some more?", "de-DE": "Möchtest du noch etwas?", "fr-FR": "Tu en veux encore ?", "es-ES": "¿Quieres un poco más?", "it-IT": "Ne vuoi ancora?"},
+    {"tr-TR": "Su istiyorum.", "en-US": "I'd like some water.", "de-DE": "Ich möchte Wasser.", "fr-FR": "Je voudrais de l’eau.", "es-ES": "Quiero agua.", "it-IT": "Vorrei dell’acqua."},
+    {"tr-TR": "Doydum, teşekkür ederim.", "en-US": "I'm full, thank you.", "de-DE": "Ich bin satt, danke.", "fr-FR": "Je n’ai plus faim, merci.", "es-ES": "Ya no tengo hambre, gracias.", "it-IT": "Non ho più fame, grazie."}
+  ],
+  "mealtimes_phrases": [
+    {"tr-TR": "Bugün ne yemek istersin?", "en-US": "What would you like to eat today?", "de-DE": "Was möchtest du heute essen?", "fr-FR": "Qu’aimerais-tu manger aujourd’hui ?", "es-ES": "¿Qué te gustaría comer hoy?", "it-IT": "Cosa vorresti mangiare oggi?"},
+    {"tr-TR": "Bu lezzetli mi, yoksa değil mi?", "en-US": "Is this tasty, or not?", "de-DE": "Ist das lecker, oder nicht?", "fr-FR": "C’est bon, ou pas ?", "es-ES": "¿Está rico, o no?", "it-IT": "È buono, o no?"},
+    {"tr-TR": "Bana en sevdiğin yemeği anlatır mısın?", "en-US": "Can you tell me your favorite food?", "de-DE": "Kannst du mir von deinem Lieblingsessen erzählen?", "fr-FR": "Tu peux me parler de ton plat préféré ?", "es-ES": "¿Me hablas de tu comida favorita?", "it-IT": "Mi parli del tuo piatto preferito?"}
+  ],
+  "play_exploring": [
+    {"tr-TR": "Bak, bu bir top.", "en-US": "Look, this is a ball.", "de-DE": "Schau, das ist ein Ball.", "fr-FR": "Regarde, c’est un ballon.", "es-ES": "Mira, esto es una pelota.", "it-IT": "Guarda, questa è una palla."},
+    {"tr-TR": "Şimdi kuleyi yapıyoruz.", "en-US": "Now we're building the tower.", "de-DE": "Jetzt bauen wir den Turm.", "fr-FR": "Maintenant, on construit la tour.", "es-ES": "Ahora estamos construyendo la torre.", "it-IT": "Adesso costruiamo la torre."},
+    {"tr-TR": "Yuvarlanıyor, bak!", "en-US": "It's rolling, look!", "de-DE": "Es rollt, schau!", "fr-FR": "Ça roule, regarde !", "es-ES": "¡Está rodando, mira!", "it-IT": "Rotola, guarda!"}
+  ],
+  "play_words": [
+    {"tr-TR": "Şimdi sıra sende.", "en-US": "It's your turn now.", "de-DE": "Jetzt bist du dran.", "fr-FR": "C’est ton tour maintenant.", "es-ES": "Ahora te toca a ti.", "it-IT": "Ora tocca a te."},
+    {"tr-TR": "Bir tane daha koyalım.", "en-US": "Let's add one more.", "de-DE": "Lass uns noch eins dazulegen.", "fr-FR": "On en ajoute encore un.", "es-ES": "Vamos a poner uno más.", "it-IT": "Aggiungiamone un altro."},
+    {"tr-TR": "Hangisini seçiyorsun?", "en-US": "Which one do you choose?", "de-DE": "Welches suchst du dir aus?", "fr-FR": "Lequel choisis-tu ?", "es-ES": "¿Cuál eliges?", "it-IT": "Quale scegli?"}
+  ],
+  "play_phrases": [
+    {"tr-TR": "Bu oyunda ne yapmak istersin?", "en-US": "What do you want to do in this game?", "de-DE": "Was möchtest du in diesem Spiel machen?", "fr-FR": "Qu’est-ce que tu veux faire dans ce jeu ?", "es-ES": "¿Qué quieres hacer en este juego?", "it-IT": "Cosa vuoi fare in questo gioco?"},
+    {"tr-TR": "Kule mi yapalım, top mu oynayalım?", "en-US": "Shall we build a tower or play ball?", "de-DE": "Sollen wir einen Turm bauen oder Ball spielen?", "fr-FR": "On construit une tour ou on joue au ballon ?", "es-ES": "¿Construimos una torre o jugamos a la pelota?", "it-IT": "Costruiamo una torre o giochiamo a palla?"},
+    {"tr-TR": "Bence de öyle, sen ne düşünüyorsun?", "en-US": "I think so too, what do you think?", "de-DE": "Ich finde das auch, was denkst du?", "fr-FR": "Je pense pareil, et toi qu’en penses-tu ?", "es-ES": "Yo también lo creo, ¿tú qué piensas?", "it-IT": "Anche io lo penso, tu cosa ne pensi?"}
+  ],
+  "feelings_exploring": [
+    {"tr-TR": "Üzgün görünüyorsun.", "en-US": "You look sad.", "de-DE": "Du siehst traurig aus.", "fr-FR": "Tu as l’air triste.", "es-ES": "Te ves triste.", "it-IT": "Sembri triste."},
+    {"tr-TR": "Ben buradayım, sorun yok.", "en-US": "I'm here, it's okay.", "de-DE": "Ich bin hier, es ist okay.", "fr-FR": "Je suis là, ça va aller.", "es-ES": "Estoy aquí, está bien.", "it-IT": "Sono qui, va tutto bene."},
+    {"tr-TR": "Şimdi mutlu görünüyorsun.", "en-US": "You look happy now.", "de-DE": "Jetzt siehst du glücklich aus.", "fr-FR": "Tu as l’air content maintenant.", "es-ES": "Ahora te ves feliz.", "it-IT": "Adesso sembri felice."}
+  ],
+  "feelings_words": [
+    {"tr-TR": "Yanındayım.", "en-US": "I'm here with you.", "de-DE": "Ich bin bei dir.", "fr-FR": "Je suis là avec toi.", "es-ES": "Estoy aquí contigo.", "it-IT": "Sono qui con te."},
+    {"tr-TR": "Biraz ara verelim mi?", "en-US": "Shall we take a little break?", "de-DE": "Wollen wir eine kleine Pause machen?", "fr-FR": "On fait une petite pause ?", "es-ES": "¿Hacemos una pequeña pausa?", "it-IT": "Facciamo una piccola pausa?"},
+    {"tr-TR": "Sarılmak ister misin?", "en-US": "Would you like a hug?", "de-DE": "Möchtest du eine Umarmung?", "fr-FR": "Tu veux un câlin ?", "es-ES": "¿Quieres un abrazo?", "it-IT": "Vuoi un abbraccio?"}
+  ],
+  "feelings_phrases": [
+    {"tr-TR": "Şu an ne hissediyorsun?", "en-US": "How are you feeling right now?", "de-DE": "Wie fühlst du dich gerade?", "fr-FR": "Comment tu te sens en ce moment ?", "es-ES": "¿Cómo te sientes ahora?", "it-IT": "Come ti senti in questo momento?"},
+    {"tr-TR": "Seni ne üzdü, anlatır mısın?", "en-US": "Can you tell me what made you sad?", "de-DE": "Kannst du mir sagen, was dich traurig gemacht hat?", "fr-FR": "Tu peux me dire ce qui t’a rendu triste ?", "es-ES": "¿Me dices qué te puso triste?", "it-IT": "Mi dici cosa ti ha reso triste?"},
+    {"tr-TR": "Kendini daha iyi hissetmek için ne yapalım?", "en-US": "What shall we do to help you feel better?", "de-DE": "Was sollen wir tun, damit du dich besser fühlst?", "fr-FR": "Que faisons-nous pour que tu te sentes mieux ?", "es-ES": "¿Qué hacemos para que te sientas mejor?", "it-IT": "Cosa facciamo per farti sentire meglio?"}
+  ],
+  "bedtime_exploring": [
+    {"tr-TR": "Şimdi pijamalarını giyiyoruz.", "en-US": "Now we're putting on your pajamas.", "de-DE": "Jetzt ziehen wir deinen Schlafanzug an.", "fr-FR": "Maintenant, on met ton pyjama.", "es-ES": "Ahora te pones el pijama.", "it-IT": "Adesso indossiamo il pigiama."},
+    {"tr-TR": "Dişlerini fırçalıyoruz.", "en-US": "We're brushing your teeth.", "de-DE": "Wir putzen deine Zähne.", "fr-FR": "On brosse tes dents.", "es-ES": "Nos lavamos los dientes.", "it-IT": "Ci laviamo i denti."},
+    {"tr-TR": "Battaniyeni örtüyorum.", "en-US": "I'm tucking in your blanket.", "de-DE": "Ich decke dich mit der Decke zu.", "fr-FR": "Je remonte ta couverture.", "es-ES": "Te arropo con la manta.", "it-IT": "Ti rimbocco la coperta."}
+  ],
+  "bedtime_words": [
+    {"tr-TR": "Hangi kitabı okuyalım?", "en-US": "Which book shall we read?", "de-DE": "Welches Buch wollen wir lesen?", "fr-FR": "Quel livre allons-nous lire ?", "es-ES": "¿Qué libro leemos?", "it-IT": "Quale libro leggiamo?"},
+    {"tr-TR": "Işığı biraz kısalım.", "en-US": "Let's dim the light a little.", "de-DE": "Machen wir das Licht etwas dunkler.", "fr-FR": "Baissons un peu la lumière.", "es-ES": "Bajemos un poco la luz.", "it-IT": "Abbassiamo un po’ la luce."},
+    {"tr-TR": "İyi geceler, seni seviyorum.", "en-US": "Good night, I love you.", "de-DE": "Gute Nacht, ich hab dich lieb.", "fr-FR": "Bonne nuit, je t’aime.", "es-ES": "Buenas noches, te quiero.", "it-IT": "Buonanotte, ti voglio bene."}
+  ],
+  "bedtime_phrases": [
+    {"tr-TR": "Bugün en sevdiğin an neydi?", "en-US": "What was your favorite moment today?", "de-DE": "Was war heute dein Lieblingsmoment?", "fr-FR": "Quel a été ton moment préféré aujourd’hui ?", "es-ES": "¿Cuál fue tu momento favorito de hoy?", "it-IT": "Qual è stato il tuo momento preferito di oggi?"},
+    {"tr-TR": "Hangi hikayeyi dinlemek istersin, neden?", "en-US": "Which story do you want to hear, and why?", "de-DE": "Welche Geschichte möchtest du hören, und warum?", "fr-FR": "Quelle histoire veux-tu écouter, et pourquoi ?", "es-ES": "¿Qué cuento quieres escuchar, y por qué?", "it-IT": "Quale storia vuoi ascoltare, e perché?"},
+    {"tr-TR": "Yarın ne yapmak istersin?", "en-US": "What would you like to do tomorrow?", "de-DE": "Was möchtest du morgen machen?", "fr-FR": "Qu’aimerais-tu faire demain ?", "es-ES": "¿Qué te gustaría hacer mañana?", "it-IT": "Cosa vorresti fare domani?"}
+  ]
+}

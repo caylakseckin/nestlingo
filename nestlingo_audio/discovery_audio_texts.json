@@ -1,0 +1,600 @@
+{
+ "words": {
+  "discovery_colors-1": {
+   "tr-TR": "Kırmızı",
+   "en-US": "Red",
+   "de-DE": "Rot",
+   "fr-FR": "Rouge",
+   "es-ES": "Rojo",
+   "it-IT": "Rosso"
+  },
+  "discovery_colors-2": {
+   "tr-TR": "Mavi",
+   "en-US": "Blue",
+   "de-DE": "Blau",
+   "fr-FR": "Bleu",
+   "es-ES": "Azul",
+   "it-IT": "Blu"
+  },
+  "discovery_colors-3": {
+   "tr-TR": "Sarı",
+   "en-US": "Yellow",
+   "de-DE": "Gelb",
+   "fr-FR": "Jaune",
+   "es-ES": "Amarillo",
+   "it-IT": "Giallo"
+  },
+  "discovery_colors-4": {
+   "tr-TR": "Yeşil",
+   "en-US": "Green",
+   "de-DE": "Grün",
+   "fr-FR": "Vert",
+   "es-ES": "Verde",
+   "it-IT": "Verde"
+  },
+  "discovery_colors-5": {
+   "tr-TR": "Turuncu",
+   "en-US": "Orange",
+   "de-DE": "Orange",
+   "fr-FR": "Orange",
+   "es-ES": "Naranja",
+   "it-IT": "Arancione"
+  },
+  "discovery_colors-6": {
+   "tr-TR": "Mor",
+   "en-US": "Purple",
+   "de-DE": "Lila",
+   "fr-FR": "Violet",
+   "es-ES": "Morado",
+   "it-IT": "Viola"
+  },
+  "discovery_numbers-1": {
+   "tr-TR": "Bir",
+   "en-US": "One",
+   "de-DE": "Eins",
+   "fr-FR": "Un",
+   "es-ES": "Uno",
+   "it-IT": "Uno"
+  },
+  "discovery_numbers-2": {
+   "tr-TR": "İki",
+   "en-US": "Two",
+   "de-DE": "Zwei",
+   "fr-FR": "Deux",
+   "es-ES": "Dos",
+   "it-IT": "Due"
+  },
+  "discovery_numbers-3": {
+   "tr-TR": "Üç",
+   "en-US": "Three",
+   "de-DE": "Drei",
+   "fr-FR": "Trois",
+   "es-ES": "Tres",
+   "it-IT": "Tre"
+  },
+  "discovery_numbers-4": {
+   "tr-TR": "Bir tane daha",
+   "en-US": "One more",
+   "de-DE": "Noch eins",
+   "fr-FR": "Encore un",
+   "es-ES": "Uno más",
+   "it-IT": "Ancora uno"
+  },
+  "discovery_numbers-5": {
+   "tr-TR": "Az / çok",
+   "en-US": "Few / many",
+   "de-DE": "Wenige / viele",
+   "fr-FR": "Peu / beaucoup",
+   "es-ES": "Pocos / muchos",
+   "it-IT": "Pochi / tanti"
+  },
+  "discovery_numbers-6": {
+   "tr-TR": "Hepsi",
+   "en-US": "All",
+   "de-DE": "Alle",
+   "fr-FR": "Tous",
+   "es-ES": "Todos",
+   "it-IT": "Tutti"
+  },
+  "discovery_positions-1": {
+   "tr-TR": "İçinde",
+   "en-US": "Inside",
+   "de-DE": "Drinnen",
+   "fr-FR": "Dedans",
+   "es-ES": "Dentro",
+   "it-IT": "Dentro"
+  },
+  "discovery_positions-2": {
+   "tr-TR": "Dışında",
+   "en-US": "Outside",
+   "de-DE": "Draußen",
+   "fr-FR": "Dehors",
+   "es-ES": "Fuera",
+   "it-IT": "Fuori"
+  },
+  "discovery_positions-3": {
+   "tr-TR": "Üstünde",
+   "en-US": "On top",
+   "de-DE": "Oben drauf",
+   "fr-FR": "Dessus",
+   "es-ES": "Encima",
+   "it-IT": "Sopra"
+  },
+  "discovery_positions-4": {
+   "tr-TR": "Altında",
+   "en-US": "Underneath",
+   "de-DE": "Darunter",
+   "fr-FR": "Dessous",
+   "es-ES": "Debajo",
+   "it-IT": "Sotto"
+  },
+  "discovery_positions-5": {
+   "tr-TR": "Yanında",
+   "en-US": "Next to",
+   "de-DE": "Daneben",
+   "fr-FR": "À côté",
+   "es-ES": "Al lado",
+   "it-IT": "Accanto"
+  },
+  "discovery_positions-6": {
+   "tr-TR": "Arkasında",
+   "en-US": "Behind",
+   "de-DE": "Dahinter",
+   "fr-FR": "Derrière",
+   "es-ES": "Detrás",
+   "it-IT": "Dietro"
+  },
+  "discovery_shapes-1": {
+   "tr-TR": "Daire",
+   "en-US": "Circle",
+   "de-DE": "Kreis",
+   "fr-FR": "Cercle",
+   "es-ES": "Círculo",
+   "it-IT": "Cerchio"
+  },
+  "discovery_shapes-2": {
+   "tr-TR": "Kare",
+   "en-US": "Square",
+   "de-DE": "Quadrat",
+   "fr-FR": "Carré",
+   "es-ES": "Cuadrado",
+   "it-IT": "Quadrato"
+  },
+  "discovery_shapes-3": {
+   "tr-TR": "Üçgen",
+   "en-US": "Triangle",
+   "de-DE": "Dreieck",
+   "fr-FR": "Triangle",
+   "es-ES": "Triángulo",
+   "it-IT": "Triangolo"
+  },
+  "discovery_shapes-4": {
+   "tr-TR": "Dikdörtgen",
+   "en-US": "Rectangle",
+   "de-DE": "Rechteck",
+   "fr-FR": "Rectangle",
+   "es-ES": "Rectángulo",
+   "it-IT": "Rettangolo"
+  },
+  "discovery_shapes-5": {
+   "tr-TR": "Köşe",
+   "en-US": "Corner",
+   "de-DE": "Ecke",
+   "fr-FR": "Coin",
+   "es-ES": "Esquina",
+   "it-IT": "Angolo"
+  },
+  "discovery_shapes-6": {
+   "tr-TR": "Yuvarlak",
+   "en-US": "Round",
+   "de-DE": "Rund",
+   "fr-FR": "Rond",
+   "es-ES": "Redondo",
+   "it-IT": "Rotondo"
+  },
+  "discovery_sizes-1": {
+   "tr-TR": "Büyük / küçük",
+   "en-US": "Big / small",
+   "de-DE": "Groß / klein",
+   "fr-FR": "Grand / petit",
+   "es-ES": "Grande / pequeño",
+   "it-IT": "Grande / piccolo"
+  },
+  "discovery_sizes-2": {
+   "tr-TR": "Uzun / kısa",
+   "en-US": "Long / short",
+   "de-DE": "Lang / kurz",
+   "fr-FR": "Long / court",
+   "es-ES": "Largo / corto",
+   "it-IT": "Lungo / corto"
+  },
+  "discovery_sizes-3": {
+   "tr-TR": "Dolu / boş",
+   "en-US": "Full / empty",
+   "de-DE": "Voll / leer",
+   "fr-FR": "Plein / vide",
+   "es-ES": "Lleno / vacío",
+   "it-IT": "Pieno / vuoto"
+  },
+  "discovery_sizes-4": {
+   "tr-TR": "Yüksek / alçak",
+   "en-US": "High / low",
+   "de-DE": "Hoch / niedrig",
+   "fr-FR": "Haut / bas",
+   "es-ES": "Alto / bajo",
+   "it-IT": "Alto / basso"
+  },
+  "discovery_sizes-5": {
+   "tr-TR": "Geniş / dar",
+   "en-US": "Wide / narrow",
+   "de-DE": "Breit / schmal",
+   "fr-FR": "Large / étroit",
+   "es-ES": "Ancho / estrecho",
+   "it-IT": "Largo / stretto"
+  },
+  "discovery_sizes-6": {
+   "tr-TR": "Ağır / hafif",
+   "en-US": "Heavy / light",
+   "de-DE": "Schwer / leicht",
+   "fr-FR": "Lourd / léger",
+   "es-ES": "Pesado / ligero",
+   "it-IT": "Pesante / leggero"
+  },
+  "discovery_matching-1": {
+   "tr-TR": "Aynı",
+   "en-US": "Same",
+   "de-DE": "Gleich",
+   "fr-FR": "Pareil",
+   "es-ES": "Igual",
+   "it-IT": "Uguale"
+  },
+  "discovery_matching-2": {
+   "tr-TR": "Farklı",
+   "en-US": "Different",
+   "de-DE": "Anders",
+   "fr-FR": "Différent",
+   "es-ES": "Diferente",
+   "it-IT": "Diverso"
+  },
+  "discovery_matching-3": {
+   "tr-TR": "Bir çift",
+   "en-US": "A pair",
+   "de-DE": "Ein Paar",
+   "fr-FR": "Une paire",
+   "es-ES": "Un par",
+   "it-IT": "Un paio"
+  },
+  "discovery_matching-4": {
+   "tr-TR": "Eşleştir",
+   "en-US": "Match",
+   "de-DE": "Ordne zu",
+   "fr-FR": "Associe",
+   "es-ES": "Empareja",
+   "it-IT": "Abbina"
+  },
+  "discovery_matching-5": {
+   "tr-TR": "Birlikte",
+   "en-US": "Together",
+   "de-DE": "Zusammen",
+   "fr-FR": "Ensemble",
+   "es-ES": "Juntos",
+   "it-IT": "Insieme"
+  },
+  "discovery_matching-6": {
+   "tr-TR": "Eksik",
+   "en-US": "Missing",
+   "de-DE": "Fehlt",
+   "fr-FR": "Manquant",
+   "es-ES": "Falta",
+   "it-IT": "Manca"
+  },
+  "discovery_movement-1": {
+   "tr-TR": "Dur / başla",
+   "en-US": "Stop / go",
+   "de-DE": "Stopp / los",
+   "fr-FR": "Stop / allez",
+   "es-ES": "Para / vamos",
+   "it-IT": "Stop / via"
+  },
+  "discovery_movement-2": {
+   "tr-TR": "Hızlı / yavaş",
+   "en-US": "Fast / slow",
+   "de-DE": "Schnell / langsam",
+   "fr-FR": "Vite / lentement",
+   "es-ES": "Rápido / despacio",
+   "it-IT": "Veloce / piano"
+  },
+  "discovery_movement-3": {
+   "tr-TR": "Yukarı / aşağı",
+   "en-US": "Up / down",
+   "de-DE": "Hoch / runter",
+   "fr-FR": "En haut / en bas",
+   "es-ES": "Arriba / abajo",
+   "it-IT": "Su / giù"
+  },
+  "discovery_movement-4": {
+   "tr-TR": "Aç / kapat",
+   "en-US": "Open / close",
+   "de-DE": "Auf / zu",
+   "fr-FR": "Ouvre / ferme",
+   "es-ES": "Abre / cierra",
+   "it-IT": "Apri / chiudi"
+  },
+  "discovery_movement-5": {
+   "tr-TR": "Dön",
+   "en-US": "Turn",
+   "de-DE": "Dreh dich",
+   "fr-FR": "Tourne",
+   "es-ES": "Gira",
+   "it-IT": "Gira"
+  },
+  "discovery_movement-6": {
+   "tr-TR": "Yuvarla",
+   "en-US": "Roll",
+   "de-DE": "Rolle",
+   "fr-FR": "Fais rouler",
+   "es-ES": "Haz rodar",
+   "it-IT": "Fai rotolare"
+  },
+  "discovery_senses-1": {
+   "tr-TR": "Yumuşak",
+   "en-US": "Soft",
+   "de-DE": "Weich",
+   "fr-FR": "Doux",
+   "es-ES": "Suave",
+   "it-IT": "Morbido"
+  },
+  "discovery_senses-2": {
+   "tr-TR": "Sert",
+   "en-US": "Hard",
+   "de-DE": "Hart",
+   "fr-FR": "Dur",
+   "es-ES": "Duro",
+   "it-IT": "Duro"
+  },
+  "discovery_senses-3": {
+   "tr-TR": "Pürüzlü / düz",
+   "en-US": "Rough / smooth",
+   "de-DE": "Rau / glatt",
+   "fr-FR": "Rugueux / lisse",
+   "es-ES": "Áspero / liso",
+   "it-IT": "Ruvido / liscio"
+  },
+  "discovery_senses-4": {
+   "tr-TR": "Sesli / sessiz",
+   "en-US": "Sound / silence",
+   "de-DE": "Laut / still",
+   "fr-FR": "Son / silence",
+   "es-ES": "Sonido / silencio",
+   "it-IT": "Suono / silenzio"
+  },
+  "discovery_senses-5": {
+   "tr-TR": "Kuru / ıslak",
+   "en-US": "Dry / wet",
+   "de-DE": "Trocken / nass",
+   "fr-FR": "Sec / mouillé",
+   "es-ES": "Seco / mojado",
+   "it-IT": "Asciutto / bagnato"
+  },
+  "discovery_senses-6": {
+   "tr-TR": "Bak / dinle",
+   "en-US": "Look / listen",
+   "de-DE": "Schau / hör zu",
+   "fr-FR": "Regarde / écoute",
+   "es-ES": "Mira / escucha",
+   "it-IT": "Guarda / ascolta"
+  },
+  "discovery_animals-1": {
+   "tr-TR": "Kedi",
+   "en-US": "Cat",
+   "de-DE": "Katze",
+   "fr-FR": "Chat",
+   "es-ES": "Gato",
+   "it-IT": "Gatto"
+  },
+  "discovery_animals-2": {
+   "tr-TR": "Köpek",
+   "en-US": "Dog",
+   "de-DE": "Hund",
+   "fr-FR": "Chien",
+   "es-ES": "Perro",
+   "it-IT": "Cane"
+  },
+  "discovery_animals-3": {
+   "tr-TR": "Kuş",
+   "en-US": "Bird",
+   "de-DE": "Vogel",
+   "fr-FR": "Oiseau",
+   "es-ES": "Pájaro",
+   "it-IT": "Uccello"
+  },
+  "discovery_animals-4": {
+   "tr-TR": "Balık",
+   "en-US": "Fish",
+   "de-DE": "Fisch",
+   "fr-FR": "Poisson",
+   "es-ES": "Pez",
+   "it-IT": "Pesce"
+  },
+  "discovery_animals-5": {
+   "tr-TR": "Tavşan",
+   "en-US": "Rabbit",
+   "de-DE": "Kaninchen",
+   "fr-FR": "Lapin",
+   "es-ES": "Conejo",
+   "it-IT": "Coniglio"
+  },
+  "discovery_animals-6": {
+   "tr-TR": "Ayı",
+   "en-US": "Bear",
+   "de-DE": "Bär",
+   "fr-FR": "Ours",
+   "es-ES": "Oso",
+   "it-IT": "Orso"
+  },
+  "discovery_sequence-1": {
+   "tr-TR": "Önce / sonra",
+   "en-US": "First / then",
+   "de-DE": "Zuerst / dann",
+   "fr-FR": "D'abord / ensuite",
+   "es-ES": "Primero / después",
+   "it-IT": "Prima / poi"
+  },
+  "discovery_sequence-2": {
+   "tr-TR": "Al / koy",
+   "en-US": "Take / put",
+   "de-DE": "Nimm / leg",
+   "fr-FR": "Prends / pose",
+   "es-ES": "Toma / pon",
+   "it-IT": "Prendi / metti"
+  },
+  "discovery_sequence-3": {
+   "tr-TR": "Aç / bak",
+   "en-US": "Open / look",
+   "de-DE": "Öffne / schau",
+   "fr-FR": "Ouvre / regarde",
+   "es-ES": "Abre / mira",
+   "it-IT": "Apri / guarda"
+  },
+  "discovery_sequence-4": {
+   "tr-TR": "Topla",
+   "en-US": "Tidy up",
+   "de-DE": "Räum auf",
+   "fr-FR": "Range",
+   "es-ES": "Recoge",
+   "it-IT": "Riordina"
+  },
+  "discovery_sequence-5": {
+   "tr-TR": "Hazır",
+   "en-US": "Ready",
+   "de-DE": "Bereit",
+   "fr-FR": "Prêt",
+   "es-ES": "Listo",
+   "it-IT": "Pronto"
+  },
+  "discovery_sequence-6": {
+   "tr-TR": "Tekrar",
+   "en-US": "Again",
+   "de-DE": "Noch einmal",
+   "fr-FR": "Encore",
+   "es-ES": "Otra vez",
+   "it-IT": "Ancora"
+  },
+  "discovery_feelings-1": {
+   "tr-TR": "Mutlu",
+   "en-US": "Happy",
+   "de-DE": "Fröhlich",
+   "fr-FR": "Content",
+   "es-ES": "Feliz",
+   "it-IT": "Felice"
+  },
+  "discovery_feelings-2": {
+   "tr-TR": "Üzgün",
+   "en-US": "Sad",
+   "de-DE": "Traurig",
+   "fr-FR": "Triste",
+   "es-ES": "Triste",
+   "it-IT": "Triste"
+  },
+  "discovery_feelings-3": {
+   "tr-TR": "Kızgın",
+   "en-US": "Angry",
+   "de-DE": "Wütend",
+   "fr-FR": "Fâché",
+   "es-ES": "Enfadado",
+   "it-IT": "Arrabbiato"
+  },
+  "discovery_feelings-4": {
+   "tr-TR": "Yorgun",
+   "en-US": "Tired",
+   "de-DE": "Müde",
+   "fr-FR": "Fatigué",
+   "es-ES": "Cansado",
+   "it-IT": "Stanco"
+  },
+  "discovery_feelings-5": {
+   "tr-TR": "Yardım",
+   "en-US": "Help",
+   "de-DE": "Hilfe",
+   "fr-FR": "Aide",
+   "es-ES": "Ayuda",
+   "it-IT": "Aiuto"
+  },
+  "discovery_feelings-6": {
+   "tr-TR": "Birlikte",
+   "en-US": "Together",
+   "de-DE": "Zusammen",
+   "fr-FR": "Ensemble",
+   "es-ES": "Juntos",
+   "it-IT": "Insieme"
+  },
+  "discovery_pretend-1": {
+   "tr-TR": "Merhaba",
+   "en-US": "Hello",
+   "de-DE": "Hallo",
+   "fr-FR": "Bonjour",
+   "es-ES": "Hola",
+   "it-IT": "Ciao"
+  },
+  "discovery_pretend-2": {
+   "tr-TR": "Lütfen",
+   "en-US": "Please",
+   "de-DE": "Bitte",
+   "fr-FR": "S'il te plaît",
+   "es-ES": "Por favor",
+   "it-IT": "Per favore"
+  },
+  "discovery_pretend-3": {
+   "tr-TR": "Teşekkürler",
+   "en-US": "Thank you",
+   "de-DE": "Danke",
+   "fr-FR": "Merci",
+   "es-ES": "Gracias",
+   "it-IT": "Grazie"
+  },
+  "discovery_pretend-4": {
+   "tr-TR": "Hoşça kal",
+   "en-US": "Goodbye",
+   "de-DE": "Tschüss",
+   "fr-FR": "Au revoir",
+   "es-ES": "Adiós",
+   "it-IT": "Ciao"
+  },
+  "discovery_pretend-5": {
+   "tr-TR": "Hoş geldin",
+   "en-US": "Welcome",
+   "de-DE": "Willkommen",
+   "fr-FR": "Bienvenue",
+   "es-ES": "Bienvenido",
+   "it-IT": "Benvenuto"
+  },
+  "discovery_pretend-6": {
+   "tr-TR": "İyi geceler",
+   "en-US": "Good night",
+   "de-DE": "Gute Nacht",
+   "fr-FR": "Bonne nuit",
+   "es-ES": "Buenas noches",
+   "it-IT": "Buonanotte"
+  }
+ },
+ "phrases": {
+  "discovery_shared": [
+   {
+    "tr-TR": "Şimdi sıra sende.",
+    "en-US": "Now it's your turn.",
+    "de-DE": "Jetzt bist du dran.",
+    "fr-FR": "Maintenant, c'est ton tour.",
+    "es-ES": "Ahora te toca a ti.",
+    "it-IT": "Ora tocca a te."
+   },
+   {
+    "tr-TR": "Bak!",
+    "en-US": "Look!",
+    "de-DE": "Schau mal!",
+    "fr-FR": "Regarde !",
+    "es-ES": "¡Mira!",
+    "it-IT": "Guarda!"
+   }
+  ]
+ }
+}

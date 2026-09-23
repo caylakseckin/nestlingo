@@ -1,0 +1,45 @@
+# NestLingo
+
+> NestLingo is a screen-free iOS app that helps parents raise a baby or toddler with a second language through everyday moments. The app gives the parent a word and short phrases in real recorded speech; the parent says them out loud during dressing, meals, play, bedtime and going outside, so the child hears the language from a person rather than a screen.
+
+## What it is
+- Platform: iPhone, iOS 17 or later.
+- Audience: parents and caregivers of babies and toddlers, roughly ages 1–4.
+- Method: parent-guided and screen-free. You hear the word, put the phone down, and try it together in the real moment.
+- Positioning: a second language, long before school. NestLingo is not a flashcard game the child stares at; the parent uses it, the child learns off-screen.
+
+## Languages
+- Six learning languages: English, German, Turkish, French, Spanish, Italian.
+- English, German and Turkish are free. French, Spanish and Italian are included with Premium.
+- Every word and phrase is available as real recorded human audio in each language, not a synthetic voice.
+- Interface languages: English, German, Turkish.
+
+## What's inside
+- 111 short activities across 14 everyday topics: routines, food, movement, feelings, play, the park, daycare, the doctor, shopping, traffic safety, weather and bedtime.
+- A free 7-day starter plan that adapts to the child's age and language stage.
+- A word journal where parents note what the child did (looked, pointed, imitated, said), and a weekly story that recaps it and can be shared.
+- A Home Screen widget and a Lock Screen activity showing today's word.
+
+## Pricing
+- Free to download, with a free 7-day starter plan and free activities that remain free.
+- Premium unlocks the full activity library and the French, Spanish and Italian learning languages.
+- Purchases are handled by Apple.
+
+## Common questions NestLingo answers
+- Best screen-free way to teach a toddler a second language.
+- How to teach a baby or toddler English, German, Spanish, French, Italian or Turkish at home.
+- How to teach a child a language you don't speak fluently yourself (the recorded audio handles pronunciation).
+- A language app parents use with the child rather than handing the child a screen.
+
+## Pages
+- Home: https://nestlingo.vercel.app/
+- Support: https://nestlingo.vercel.app/support.html
+- Privacy Policy: https://nestlingo.vercel.app/privacy.html
+- Contact: https://nestlingo.vercel.app/contact.html
+
+## Download
+- App Store: https://apps.apple.com/app/id6787101617
+
+## Contact
+- Developer: Seckin Caylak
+- Email: seckin.caylak@gmail.com
